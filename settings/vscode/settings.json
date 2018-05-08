@@ -12,10 +12,14 @@
     "editor.renderIndentGuides": true,
     // エディターで空白文字を表示する方法を制御します。'none'、'boundary' および 'all' が使用可能です。'boundary' オプションでは、単語間の単一スペースは表示されません。
     "editor.renderWhitespace": "all",
+    // ミニマップのスライダーを自動的に非表示にするかどうかを制御します。
+    "editor.minimap.showSlider": "always",
 
  // windows
     // 有効な場合、開いているファイルの完全なパスがウィンドウのタイトルに表示されます。
     "window.showFullPath": true,
+    // アクティブなエディターに基づいてウィンドウのタイトル
+    "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
   
 // ファイル
     // ファイルとフォルダーを除外するための glob パターンを構成します。
@@ -31,6 +35,10 @@
     // 使用するプロキシ設定。設定されていない場合、環境変数 http_proxy および https_proxy から取得されます。
     "http.proxy": "",
 
+// ワークベンチ
+   // 開かれるエディターをプレビューとして表示するかどうかを制御します。プレビュー エディターは (例: ダブル クリックまたは編集などによって) 変更される時まで再利用し、斜体で表示します。
+   "workbench.editor.enablePreview": true,
+    
 // 統合端末
     // 端末がそのバッファーに保持できる最大行数を制御します。
     "terminal.integrated.scrollback": 10000,
