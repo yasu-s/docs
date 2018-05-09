@@ -15,6 +15,10 @@
     // ミニマップのスライダーを自動的に非表示にするかどうかを制御します。
     "editor.minimap.showSlider": "always",
 
+// エクスプローラー
+    // エクスプローラーでファイルを開くとき、自動的にファイルの内容を表示して選択するかどうかを制御します。
+    "explorer.autoReveal": false,
+    
  // windows
     // 有効な場合、開いているファイルの完全なパスがウィンドウのタイトルに表示されます。
     "window.showFullPath": true,
