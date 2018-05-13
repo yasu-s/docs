@@ -20,8 +20,6 @@
     "explorer.autoReveal": false,
     
  // windows
-    // 有効な場合、開いているファイルの完全なパスがウィンドウのタイトルに表示されます。
-    "window.showFullPath": true,
     // アクティブなエディターに基づいてウィンドウのタイトル
     "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
   
@@ -41,7 +39,7 @@
 
 // ワークベンチ
    // 開かれるエディターをプレビューとして表示するかどうかを制御します。プレビュー エディターは (例: ダブル クリックまたは編集などによって) 変更される時まで再利用し、斜体で表示します。
-   "workbench.editor.enablePreview": true,
+   "workbench.editor.enablePreview": false,
     
 // 統合端末
     // 端末がそのバッファーに保持できる最大行数を制御します。
