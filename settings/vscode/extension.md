@@ -12,4 +12,6 @@ Gitのコミット履歴が一覧で見える
 マークダウンをPDF化  
 * Status Bar Read-Only Indicator: https://github.com/alefragnani/vscode-read-only-indicator  
 ファイルが読み取り専用かどうかをステータスバーに表示  
+* CodeMetrics: https://github.com/kisstkondoros/codemetrics  
+コードの複雑度を見える化  
 
