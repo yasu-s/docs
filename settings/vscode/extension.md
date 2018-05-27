@@ -12,11 +12,6 @@
     <td>ステータスバーにショートカットボタン追加</td>
   </tr>
   <tr>
-    <td>Shortcuts</td>
-    <td>https://github.com/gizak/vscode-shortcuts</td>
-    <td>ステータスバーにショートカットボタン追加</td>
-  </tr>
-  <tr>
     <td>GitLens</td>
     <td>https://github.com/eamodio/vscode-gitlens</td>
     <td>CodeLensのGit版</td>
