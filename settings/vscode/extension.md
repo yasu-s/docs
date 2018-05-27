@@ -62,11 +62,6 @@
     <td>JSON形式のデータをTypeScriptのインターフェースに変換します。</td>
   </tr>
   <tr>
-    <td>JSON to TS</td>
-    <td>https://github.com/MariusAlch/vscode-json-to-ts</td>
-    <td>JSON形式のデータをTypeScriptのインターフェースに変換します。</td>
-  </tr>
-  <tr>
     <td>Path Intellisense</td>
     <td>https://github.com/ChristianKohler/PathIntellisense</td>
     <td>ファイルパスの入力補間</td>
