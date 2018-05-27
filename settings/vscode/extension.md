@@ -57,6 +57,41 @@
     <td>Angular開発サポート</td>
   </tr>
   <tr>
+    <td>TSLint</td>
+    <td>https://github.com/Microsoft/vscode-tslint</td>
+    <td>TSLintの警告をエディタ上でチェック</td>
+  </tr>
+  <tr>
+    <td>JSON to TS</td>
+    <td>https://github.com/MariusAlch/vscode-json-to-ts</td>
+    <td>JSON形式のデータをTypeScriptのインターフェースに変換します。</td>
+  </tr>
+  <tr>
+    <td>JSON to TS</td>
+    <td>https://github.com/MariusAlch/vscode-json-to-ts</td>
+    <td>JSON形式のデータをTypeScriptのインターフェースに変換します。</td>
+  </tr>
+  <tr>
+    <td>Path Intellisense</td>
+    <td>https://github.com/ChristianKohler/PathIntellisense</td>
+    <td>ファイルパスの入力補間</td>
+  </tr>
+  <tr>
+    <td>HTML CSS Support</td>
+    <td>https://github.com/ecmel/vscode-html-css</td>
+    <td>スタイルシートの入力補間等</td>
+  </tr>
+  <tr>
+    <td>Bookmarks</td>
+    <td>https://github.com/alefragnani/vscode-bookmarks</td>
+    <td>ブックマークを追加・ジャンプできる</td>
+  </tr>
+  <tr>
+    <td>Bracket Pair Colorizer</td>
+    <td>https://github.com/CoenraadS/BracketPair</td>
+    <td>括弧の色をネスト単位で変える</td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
