@@ -14,4 +14,5 @@ Gitのコミット履歴が一覧で見える
 ファイルが読み取り専用かどうかをステータスバーに表示  
 * CodeMetrics: https://github.com/kisstkondoros/codemetrics  
 コードの複雑度を見える化  
-
+* Debugger for Chrome https://github.com/Microsoft/vscode-chrome-debug  
+Chromeデバッガと連携  
