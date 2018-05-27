@@ -82,6 +82,16 @@
     <td>括弧の色をネスト単位で変える</td>
   </tr>
   <tr>
+    <td>angular2-inline</td>
+    <td>https://github.com/natewallace/angular2-inline</td>
+    <td>@Component.template内のHTMLをハイライト</td>
+  </tr>
+  <tr>
+    <td>Angular Support</td>
+    <td>https://github.com/VismaLietuva/vscode-angular-support</td>
+    <td>templateUrl、styleUrls から定義に飛べる。</td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
