@@ -1,0 +1,47 @@
+
+# 開発言語別ツールメモ
+
+<table>
+  <tr>
+    <th>分類</th>
+    <th>C#</th>
+    <th>Java</th>
+    <th>TypeScript</th>
+  </tr>
+  <tr>
+    <td>パッケージ管理</td>
+    <td>NuGet</td>
+    <td>Maven</td>
+    <td>NPM</td>
+  </tr>
+  <tr>
+    <td>ビルド</td>
+    <td>MSBuild</td>
+    <td>Maven</td>
+    <td>NPM</td>
+  </tr>
+  <tr>
+    <td>ユニットテスト</td>
+    <td>MSTest</td>
+    <td>JUnit</td>
+    <td>Jasmine</td>
+  </tr>
+  <tr>
+    <td>静的解析(スタイル)</td>
+    <td>StyleCop</td>
+    <td>Checkstyle</td>
+    <td>TSLint</td>
+  </tr>
+  <tr>
+    <td>静的解析(アルゴリズム)</td>
+    <td>FxCop</td>
+    <td>FindBugs</td>
+    <td>TSLint</td>
+  </tr>
+  <tr>
+    <td>複雑度</td>
+    <td>CodeMetrics</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</table>
