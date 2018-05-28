@@ -73,5 +73,21 @@
     "[typescript]": {
         // 有効にすると、ファイルの保存時に末尾の空白をトリミングします。
         "files.trimTrailingWhitespace": true
-    }
+    },
+    
+// 拡張設定
+    // Define paired characters and their shared color group
+    "bracketPairColorizer.consecutivePairColors": [
+        "()",
+        "[]",
+        "{}",
+        [
+            "Black",
+            "Gray",
+            "Green",
+            "Navy",
+            "DarkOrange"
+        ],
+        "Red"
+    ]
 }
