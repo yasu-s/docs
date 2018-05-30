@@ -92,9 +92,9 @@
     <td>templateUrl、styleUrls から定義に飛べる。</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>TODO Highlight</td>
+    <td>https://github.com/wayou/vscode-todo-highlight</td>
+    <td>コメントの「TODO」が強調表示される。</td>
   </tr>
   <tr>
     <td></td>
