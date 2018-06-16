@@ -16,7 +16,7 @@
   * thirdparty library.  
   * migration schematics.  
 * ng add  
-  * ng add @angular/material  
+  * ng add @angular/material  
     * package.json書き換え  
     * import appmodule  
     * theme, icons font追加される。  
@@ -78,7 +78,7 @@
   * service-workerのインストール・コード追加  
 * Angular側にswUpdate, swPushが追加  
 * APIサーバーとのバージョンずれについて  
-* ng build 時にキャッシュリソース
+* ng build 時にキャッシュリソース
 * strategy  
   * cache first  
     * キャッシュ優先。期限切れなら通信する  
