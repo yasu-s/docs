@@ -22,6 +22,8 @@
 * WPF
 * WCF
 * ASP.NET MVC
+* ADO.NET
+* EntityFramework
 * Struts 1
 
 ### 開発環境  
