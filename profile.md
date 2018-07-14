@@ -18,12 +18,14 @@
 * Ionic 2
 * jQuery
 * Knockout.js
+* Jasmine
 * Node.js
 * WPF
 * WCF
 * ASP.NET MVC
 * ADO.NET
 * EntityFramework
+* MSTest
 * Struts 1
 
 ### 開発環境  
@@ -32,7 +34,12 @@
 * Visual Studio Code  
 * Eclipse  
 
-### ソース管理・チケット管理・ＣＩ環境
+### DB
+
+* SQL Server 2005/2008/2012  
+* Oracle 10g
+
+### ソース管理・チケット管理・CI環境
 
 * Gitlab
 * Github
