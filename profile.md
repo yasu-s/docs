@@ -20,6 +20,7 @@
 * Knockout.js
 * Jasmine
 * Node.js
+  * Express 
 * WPF
 * WCF
 * ASP.NET MVC
@@ -27,6 +28,7 @@
 * EntityFramework
 * MSTest
 * Struts 1
+* JAX-RS
 
 ### 開発環境  
 
