@@ -97,6 +97,11 @@
     <td>コメントの「TODO」が強調表示される。</td>
   </tr>
   <tr>
+    <td>Output Colorizer</td>
+    <td>https://github.com/IBM-Cloud/vscode-log-output-colorizer</td>
+    <td>OUTPUTに色がつく。</td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
