@@ -11,22 +11,34 @@
 
 ### フレームワーク・ライブラリ  
 
+#### JavaScript/AltJS  
+
 * Angular 2/4/6 
   * Angular Material 6 
   * PrimeNG
-* Apache Cordova
-* Ionic 2
 * jQuery
 * Knockout.js
+* RxJS
 * Jasmine
 * Node.js
   * Express 
+
+#### Mobile
+
+* Apache Cordova
+* Ionic 2
+
+#### Windows 
+
 * WPF
 * WCF
 * ASP.NET MVC
 * ADO.NET
 * EntityFramework
 * MSTest
+
+#### Java
+
 * Struts 1
 * JAX-RS
 
