@@ -102,6 +102,11 @@
     <td>OUTPUTに色がつく。</td>
   </tr>
   <tr>
+    <td>Studio Icons</td>
+    <td>https://github.com/jtlowe/studio-icons</td>
+    <td>Visual Studio 風アイコン</td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
