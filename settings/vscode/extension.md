@@ -107,6 +107,21 @@
     <td>Visual Studio 風アイコン</td>
   </tr>
   <tr>
+    <td>REST Client</td>
+    <td>https://marketplace.visualstudio.com/items?itemName=humao.rest-client</td>
+    <td>REST通信</td>
+  </tr>
+  <tr>
+    <td>TODO+</td>
+    <td>https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus</td>
+    <td>TODOのサイドバーが表示</td>
+  </tr>
+  <tr>
+    <td>Regex Previewer</td>
+    <td>https://marketplace.visualstudio.com/items?itemName=chrmarti.regex</td>
+    <td>正規表現デバッグ用</td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
