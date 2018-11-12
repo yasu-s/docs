@@ -10,3 +10,8 @@
 
 * Git  
 * Node.js  
+
+## Git
+
+* リモートリポジトリ削除  
+`git config --global fetch.prune true`
