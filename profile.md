@@ -11,12 +11,13 @@
 
 ### フレームワーク・ライブラリ  
 
-#### JavaScript/AltJS  
+#### JavaScript/CSS  
 
-* Angular 2/4/6 
+* Angular 2/4/6/7 
   * Angular Material 6 
   * PrimeNG
 * jQuery
+* Bootstrap 
 * Knockout.js
 * RxJS
 * Jasmine
@@ -35,6 +36,7 @@
 * ASP.NET MVC
 * ADO.NET
 * EntityFramework
+* BotFramework
 * MSTest
 
 #### Java
@@ -63,6 +65,13 @@
 * JIRA
 * Jenkins
 
+### Cloud
+
+* Microsoft Azure
+  * LUIS
+  * Azure Functions
+* AWS
+  * Lambda 
 
 ## 資格  
 
