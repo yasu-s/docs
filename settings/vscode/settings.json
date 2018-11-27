@@ -14,6 +14,8 @@
     "editor.renderWhitespace": "all",
     // ミニマップのスライダーを自動的に非表示にするかどうかを制御します。
     "editor.minimap.showSlider": "always",
+    // エディターで制御文字を表示するかどうかを制御します。
+    "editor.renderControlCharacters": true,
 
 // エクスプローラー
     // エクスプローラーでファイルを開くとき、自動的にファイルの内容を表示して選択するかどうかを制御します。
