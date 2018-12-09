@@ -122,6 +122,16 @@
     <td>正規表現デバッグ用</td>
   </tr>
   <tr>
+    <td>Rainbow CSV</td>
+    <td>https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv</td>
+    <td>CSVハイライト</td>
+  </tr>
+  <tr>
+    <td>Excel Viewer</td>
+    <td>https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer</td>
+    <td>Excel or CSV ファイルをハイライト表示</td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
