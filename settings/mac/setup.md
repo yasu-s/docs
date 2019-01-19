@@ -10,11 +10,3 @@
 
 * Git  
 * Node.js  
-
-## Git
-
-* アカウント設定
-  * `git config --global user.name "name"`
-  * `git config --global user.email mail@mail`
-* リモートリポジトリ削除  
-`git config --global fetch.prune true`
