@@ -132,6 +132,11 @@
     <td>Excel or CSV ファイルをハイライト表示</td>
   </tr>
   <tr>
+    <td>vscode-icons</td>
+    <td>https://github.com/vscode-icons/vscode-icons</td>
+    <td>アイコンセット</td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
