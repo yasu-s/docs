@@ -59,7 +59,7 @@
   * Lambda
   * 開発言語を統一して学習コストを下げる
 * フロントエンドについて
-  * 部分的にVue.jsを採用、基本はサーバサイドHTML
+  * 部分的にVue.jsを採用、基本はサーバサイドHTML
   * Spring Bootを採用
   * Vue.jsのSSRで対応
 * ORM
