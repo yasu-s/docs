@@ -2,6 +2,10 @@
 
 ## 14-A-5: ビズリーチは新規事業でなぜKotlinを選んだのか
 
+### セッション詳細
+
+* 講演者: 大谷 弘喜[ビズリーチ]
+
 ### ビズリーチの新規事業
 
 * 本社と離れた場所で新規事業を行っている
@@ -72,9 +76,11 @@
 
 ## 14-B-6: ヤフー株式会社におけるフロントエンドの取り組み
 
-### 参考ブログ
+### セッション詳細
 
-* ヤフー株式会社におけるWebフロントエンドの技術選定：https://techblog.yahoo.co.jp/advent-calendar-2018/yahoo-frontend/
+* 講演者: 向井 咲人[ヤフー], 森本 恭平[ヤフー], 平山 涼也[ヤフー]
+＊ 資料： https://www.slideshare.net/techblogyahoo/devsumi2019-14b6-devsumib-131748750
+* 参考ブログ: ヤフー株式会社におけるWebフロントエンドの技術選定： https://techblog.yahoo.co.jp/advent-calendar-2018/yahoo-frontend/
 
 ### メディアカンパニー統括本部のフロントエンド
 
