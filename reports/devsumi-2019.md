@@ -5,7 +5,7 @@
 ### セッション詳細
 
 * 講演者: 大谷 弘喜[ビズリーチ]
-＊ 資料： 
+* 資料： 
 
 ### ビズリーチの新規事業
 
@@ -80,7 +80,7 @@
 ### セッション詳細
 
 * 講演者: 向井 咲人[ヤフー], 森本 恭平[ヤフー], 平山 涼也[ヤフー]
-＊ 資料： https://www.slideshare.net/techblogyahoo/devsumi2019-14b6-devsumib-131748750
+* 資料： https://www.slideshare.net/techblogyahoo/devsumi2019-14b6-devsumib-131748750
 * 参考ブログ: ヤフー株式会社におけるWebフロントエンドの技術選定： https://techblog.yahoo.co.jp/advent-calendar-2018/yahoo-frontend/
 
 ### メディアカンパニー統括本部のフロントエンド
@@ -149,7 +149,7 @@
 ### セッション詳細
 
 * 講演者: 内藤 千稔[パーソルキャリア]
-＊ 資料： 
+* 資料： 
 
 ### ３年かけて対応
 
@@ -217,7 +217,7 @@
 ### セッション詳細
 
 * 講演者: 焼尾 徹[アマゾン ウェブ サービス ジャパン]
-＊ 資料： 
+* 資料： 
 
 ### Amazon S3の概要
 
@@ -265,7 +265,7 @@
 ### セッション詳細
 
 * 講演者: 山崎 亘[ウフル]
-＊ 資料： 
+* 資料： 
 
 ### そもそもIoTアプリ開発って
 
@@ -320,7 +320,7 @@
 ### セッション詳細
 
 * 講演者: 石垣 雅人[DMM.com]
-＊ 資料： https://speakerdeck.com/i35_267/hurotakutowogrowthsaserutetaqu-dong-zhan-lue-falseji-chu-zhi-shi
+* 資料： https://speakerdeck.com/i35_267/hurotakutowogrowthsaserutetaqu-dong-zhan-lue-falseji-chu-zhi-shi
 
 ### データ駆動戦略とは何か？
 
@@ -409,7 +409,7 @@
 ## 15-A-7: Webサーバー利用だけではないNGINXソリューション
 
 * 講演者: 田辺 茂也[NGINX]
-＊ 資料： https://speakerdeck.com/nginx_jp/developers-summit-2019
+* 資料： https://speakerdeck.com/nginx_jp/developers-summit-2019
 
 ### NGINXの紹介
 
@@ -477,7 +477,7 @@
 ## 15-C-8: とにかく明るい！「Fun! Done! Learn!」でデブサミを振り返ってみましょう！
 
 * 講演者: ヴァッサー ジャンバティスト[yamaneco], 安井 力, 川口 恭伸[アギレルゴコンサルティング], 有野 雅士[アトラクタ]
-＊ 資料： 
+* 資料： 
 * 参考ブログ: https://qiita.com/yattom/items/90ac533d993d3a2d2d0f
 
 ### ワークショップ
