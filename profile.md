@@ -9,7 +9,7 @@
 * C#
 * Java
 
-### フレームワーク・ライブラリ  
+### フレームワーク/ライブラリ/テクノロジー  
 
 #### JavaScript/CSS  
 
@@ -21,6 +21,7 @@
 * Knockout.js
 * RxJS
 * Jasmine
+* Jest
 * Node.js
   * Express 
 
@@ -31,8 +32,10 @@
 
 #### Windows 
 
+* .NET Framework 2.0/3.5/4.5
 * WPF
 * WCF
+* Windows Forms
 * ASP.NET MVC
 * ADO.NET
 * EntityFramework
@@ -43,6 +46,9 @@
 
 * Struts 1
 * JAX-RS
+* JSP/Servlet
+* JSTL 
+* log4j
 
 ### 開発環境  
 
@@ -55,7 +61,7 @@
 * SQL Server 2005/2008/2012  
 * Oracle 10g
 
-### ソース管理・チケット管理・CI環境
+### ソース管理/チケット管理/CI環境
 
 * Gitlab
 * Github
@@ -72,6 +78,7 @@
   * Azure Functions
 * AWS
   * Lambda 
+  * DynamoDB
 
 ## 資格  
 
