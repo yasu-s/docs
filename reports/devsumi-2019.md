@@ -265,7 +265,7 @@
 ### セッション詳細
 
 * 講演者: 山崎 亘[ウフル]
-* 資料： 
+* 資料： https://speakerdeck.com/wyamazak_uhuru/start-iot-appdev-with-enebular
 
 ### そもそもIoTアプリ開発って
 
