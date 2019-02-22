@@ -217,7 +217,7 @@
 ### セッション詳細
 
 * 講演者: 焼尾 徹[アマゾン ウェブ サービス ジャパン]
-* 資料： 
+* 資料： https://www.slideshare.net/devsumi/14c8amazon-s3
 
 ### Amazon S3の概要
 
