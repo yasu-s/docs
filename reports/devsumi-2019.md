@@ -1,5 +1,9 @@
 # DevSumi 2019 Day1
 
+## ブログでのまとめ
+
+* https://kakkoyakakko2.hatenablog.com/entry/2019/02/17/003000
+
 ## 14-A-5: ビズリーチは新規事業でなぜKotlinを選んだのか
 
 ### セッション詳細
