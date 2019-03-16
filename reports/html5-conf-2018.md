@@ -5,6 +5,10 @@
 * 2018年11月25日（日）東京電機大学 千住キャンパス
 * https://events.html5j.org/conference/2018/11/
 
+## ブログでのまとめ
+
+* https://kakkoyakakko2.hatenablog.com/entry/2018/11/25/220143
+
 ## それ、AMPで作りませんか？
 
 * amp-install-sw PWA対応
