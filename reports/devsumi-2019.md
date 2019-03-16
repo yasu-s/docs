@@ -1,5 +1,10 @@
 # DevSumi 2019 Day1
 
+## 概要
+
+* 日時：2019/2/14, 2/15
+* URL：https://event.shoeisha.jp/devsumi/20190214/
+
 ## ブログでのまとめ
 
 * https://kakkoyakakko2.hatenablog.com/entry/2019/02/17/003000
