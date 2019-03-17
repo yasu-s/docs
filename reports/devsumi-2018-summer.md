@@ -1,5 +1,14 @@
 # Developers Summit 2018 Summer
 
+## 概要
+
+* 日時：2018年7月27日(金) 10:00-17:45
+* URL：https://event.shoeisha.jp/devsumi/20180727
+
+## ブログ記事
+
+* https://kakkoyakakko2.hatenablog.com/entry/2018/07/28/130000
+
 ## A-3: とあるマーケティング部隊とデータエンジニアのデータドリブンへの道
 
 * モンスト
