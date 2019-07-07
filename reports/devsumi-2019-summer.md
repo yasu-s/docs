@@ -6,6 +6,7 @@
 
 * 13:15～14:00
 * 和田 卓人氏[タワーズ・クエスト]
+* https://speakerdeck.com/twada/strategy-and-tactics-of-building-automated-testing-culture-into-organization-2019-summer-edition
 
 ### 戦略
 
@@ -98,6 +99,7 @@
 
 * 14:15～15:00
 * 片岡 俊行氏[ゆめみ]
+* https://speakerdeck.com/raykataoka/aziyairuzu-zhi-falsezuo-rifang-jiao-emasu
 
 ### ３つのハマりポイント
 
@@ -290,6 +292,9 @@
 
 * 17:25～18:25
 * 市谷 聡啓氏[ギルドワークス・エナジャイル]/新井 剛氏[ヴァル研究所・エナジャイル]/小田中 育生氏[ナビタイムジャパン]
+* https://www.slideshare.net/papanda/20-153121944
+* https://speakerdeck.com/araitakeshi/si-falsepurodakutohahui-she-zu-zhi-hui-she-woaziyairuzu-zhi-hua-surutamefalsezu-zhi-kai-fa-falseshi-jian
+* https://www.slideshare.net/NavitimeJapan/ss-153110354
 
 ### ナビタイム
 
