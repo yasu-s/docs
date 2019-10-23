@@ -13,8 +13,8 @@
 
 #### JavaScript/CSS  
 
-* Angular 2/4/6/7 
-  * Angular Material 6 
+* Angular 2/4/6/7/8 
+  * Angular Material 6/8 
   * PrimeNG
 * jQuery
 * Bootstrap 
@@ -24,6 +24,8 @@
 * Jest
 * Node.js
   * Express 
+  * NestJS
+  * TypeORM
 
 #### Mobile
 
