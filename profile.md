@@ -1,13 +1,28 @@
 # Profile
 
+## 得意分野
+
+* 開発標準化、実装、テスト自動化
+
+## 得意技術
+
+* TypeScript、Angula2-8、C#、WPF
+
+## 自己PR
+
+* 多数の案件で技術選定～開発プロセス設計等の経験あり。
+* 開発の標準化やテスト自動化等の作業を複数案件で経験済み。
+* スマートフォン向けアプリ、Webアプリ、デスクトップアプリ等の様々な配信形式での開発経験あり。
+* OSS活動ではJenkinsのプラグインを開発・公開の実績あり。(VsTestRunner、Visual Studio Code Metrics Plugin etc)
+
 ## スキル  
 
 ### 開発言語  
 
-* TypeScript  
-* JavaScript
-* C#
-* Java
+* TypeScript - 3年以上
+* JavaScript - 5年以上
+* C# - 10年以上
+* Java - 3年以上
 
 ### フレームワーク/ライブラリ/テクノロジー  
 
@@ -90,10 +105,10 @@
 ## 活動  
 
 * Jenkinsプラグイン開発・機能追加・ローカライズ 
-  * VSTestRunner Plugin - https://github.com/jenkinsci/vstestrunner-plugin
-  * Visual Studio Code Metrics Plugin - https://github.com/jenkinsci/vs-code-metrics-plugin
-  * FxCop Runner plugin - https://github.com/jenkinsci/fxcop-runner-plugin
-  * MSBuild plugin - https://github.com/jenkinsci/msbuild-plugin
-  * Redmine plugin - https://github.com/jenkinsci/redmine-plugin
-  * MSTest plugin - https://github.com/jenkinsci/mstest-plugin
-  
+  * VSTestRunner Plugin（リリース） - https://github.com/jenkinsci/vstestrunner-plugin
+  * Visual Studio Code Metrics Plugin（リリース） - https://github.com/jenkinsci/vs-code-metrics-plugin
+  * FxCop Runner plugin（リリース） - https://github.com/jenkinsci/fxcop-runner-plugin
+  * MSBuild plugin（ローカライズ） - https://github.com/jenkinsci/msbuild-plugin
+  * Redmine plugin（機能追加） - https://github.com/jenkinsci/redmine-plugin
+  * MSTest plugin（ローカライズ） - https://github.com/jenkinsci/mstest-plugin
+* 技術ブログ執筆 - https://kakkoyakakko2.hatenablog.com/
