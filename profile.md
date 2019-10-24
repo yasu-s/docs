@@ -19,22 +19,45 @@
 
 ## 経歴
 
+## SESメインの企業在籍（2004年〜2014年）
 
+* 携帯電話通信テストモジュール開発：C++, CVS 
+* DVD物販サイト開発：Java, Struts, Oracle, VSS
+* 炎上案件たらい回し：C#, Jave, C++, SQL Server, Oracle, Windows Forms, ASP.NET WebService, VSS, Subversion, Hitachi
+* 不動産投資商品販売管理システム開発：VB.NET, Windows Forms, SQL Server, VSS
+* 物流会社向け配送計画システム開発 - 2008/11-2010/10：C#, WPF, WCF, SQL Server, VSS, アーキテクト
+* 配送計画パッケージソフト開発 - 2010/11-2014/09：C#, WPF, SQL Server, MSTest, TFS, Jenkins, アーキテクト
+
+## フリーランス（2015年1月〜）
+
+* 配送計画パッケージソフトカスタマイズ（菓子メーカー向け） - 2014/10-2015/06：C#, WPF, WCF, SQL Server, MSTest, TFS, Jenkins, アーキテクト/PL
+* 旅客列車向けレベニュー管理システム開発 - 2014/07-2016/03：C#, ASP.NET MVC, SQL Server, TypeScript, Knockout.js, MSTest, TFS, Jenkins, アーキテクト/PL
+* 貨物向けコンテナ配送管理システム開発 - 2016/04-2016/09：C#, WPF, ASP.NET MVC, SQL Server, MSTest, TFS, Jenkins, アーキテクト
+* 地域包括ケアアプリ開発 - 2016/10-2017/09：Cordova, TypeScript, Angular2-4, Ionic2, Bootstrap, Jasmine, GitLab, Jenkins, アーキテクト
+* 新規事業PoC開発（健康アプリ） - 2017/10-2018/03：Cordova, TypeScript, Angular4, Ionic2, TFS
+* 新規事業PoC開発（ChatBot) - 2017/07-2018/03：C#, ASP.NET MVC, Bot Framework, LUIS, TFS, PL
+* 新規事業PoC開発（備品管理） - 2018/01-2018/03：Cordova, TypeScript, Angular4, PrimeNG, Node.js, Express, Passport, Node-RED, TFS, PL
+  
+## フリーランス：エージェント経由（2018年4月〜）
+
+* SDWAN管理コンソール開発 - 2018/04-2018/09： TypeScript, Angular4-6, Angular Material, JIRA, Bitbucket, スクラム開発
+* 新卒向け就職サイト開発 - 2018/10-： TypeScript, Angular4-7, Node.js, JIRA, GitHub, AWS Lambda/DynamoDB/CodeBuild, スクラム開発
+* 新卒向け就職エージェントサイト開発 - 2019/07-： TypeScript, Angular8, Angular Material, Node.js, Nest.js, JIRA, GitHub, AWS ECS/Aurora DB, リードエンジニア
 
 ## スキル  
 
 ### 開発言語  
 
-* TypeScript - 3年以上
-* JavaScript - 5年以上
-* C# - 10年以上
-* Java - 3年以上
+* TypeScript - 3年以上経験。現在一番触っている開発言語。
+* JavaScript - 5年以上経験。
+* C# - 10年以上経験。各プロジェクトではライブラリを提供する側を担当。
+* Java - 3年以上経験。
 
 ### フレームワーク/ライブラリ/テクノロジー  
 
 #### JavaScript/CSS  
 
-* Angular 2/4/6/7/8 
+* Angular 2/4/6/7/8 - Angular2がリリース後から経験。
   * Angular Material 6/8 
   * PrimeNG
 * jQuery
@@ -56,7 +79,7 @@
 #### Windows 
 
 * .NET Framework 2.0/3.5/4.5
-* WPF
+* WPF - 5年以上。カスタムコントロール作成、MVVM適用など経験あり。
 * WCF
 * Windows Forms
 * ASP.NET MVC
@@ -83,11 +106,12 @@
 
 * SQL Server 2005/2008/2012  
 * Oracle 10g
+* MySQL
 
 ### ソース管理/チケット管理/CI環境
 
-* Gitlab
-* Github
+* GitLab
+* GitHub
 * Bitbucket
 * Team Foundation Server 2010/2012/2015
 * Redmine
