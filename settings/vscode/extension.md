@@ -1,166 +1,36 @@
 # 使用している拡張機能  
 
-<table>
-  <tr>
-    <th>拡張機能名</th>
-    <th>URL</th>
-    <th>概要</th>
-  </tr>
-  <tr>
-    <td>Shortcuts</td>
-    <td>https://github.com/gizak/vscode-shortcuts</td>
-    <td>ステータスバーにショートカットボタン追加</td>
-  </tr>
-  <tr>
-    <td>GitLens</td>
-    <td>https://github.com/eamodio/vscode-gitlens</td>
-    <td>CodeLensのGit版</td>
-  </tr>
-  <tr>
-    <td>Git History</td>
-    <td>https://github.com/DonJayamanne/gitHistoryVSCode</td>
-    <td>Gitのコミット履歴が一覧で見える</td>
-  </tr>
-  <tr>
-    <td>zenkaku</td>
-    <td>https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku </td>
-    <td>邪悪な全角スペースを強調表示してくれる</td>
-  </tr>
-  <tr>
-    <td>Markdown PDF</td>
-    <td>https://github.com/yzane/vscode-markdown-pdf</td>
-    <td>マークダウンをPDF化</td>
-  </tr>
-  <tr>
-    <td>Status Bar Read-Only Indicator</td>
-    <td>https://github.com/alefragnani/vscode-read-only-indicator</td>
-    <td>ファイルが読み取り専用かどうかをステータスバーに表示</td>
-  </tr>
-  <tr>
-    <td>CodeMetrics</td>
-    <td>https://github.com/kisstkondoros/codemetrics</td>
-    <td>コードの複雑度を見える化</td>
-  </tr>
-  <tr>
-    <td>Debugger for Chrome</td>
-    <td>https://github.com/Microsoft/vscode-chrome-debug </td>
-    <td>Chromeデバッガと連携</td>
-  </tr>
-  <tr>
-    <td>Angular Language Service</td>
-    <td>https://github.com/angular/vscode-ng-language-service</td>
-    <td>Angular開発サポート</td>
-  </tr>
-  <tr>
-    <td>TSLint</td>
-    <td>https://github.com/Microsoft/vscode-tslint</td>
-    <td>TSLintの警告をエディタ上でチェック</td>
-  </tr>
-  <tr>
-    <td>JSON to TS</td>
-    <td>https://github.com/MariusAlch/vscode-json-to-ts</td>
-    <td>JSON形式のデータをTypeScriptのインターフェースに変換します。</td>
-  </tr>
-  <tr>
-    <td>Path Intellisense</td>
-    <td>https://github.com/ChristianKohler/PathIntellisense</td>
-    <td>ファイルパスの入力補間</td>
-  </tr>
-  <tr>
-    <td>HTML CSS Support</td>
-    <td>https://github.com/ecmel/vscode-html-css</td>
-    <td>スタイルシートの入力補間等</td>
-  </tr>
-  <tr>
-    <td>Bookmarks</td>
-    <td>https://github.com/alefragnani/vscode-bookmarks</td>
-    <td>ブックマークを追加・ジャンプできる</td>
-  </tr>
-  <tr>
-    <td>Bracket Pair Colorizer</td>
-    <td>https://github.com/CoenraadS/BracketPair</td>
-    <td>括弧の色をネスト単位で変える</td>
-  </tr>
-  <tr>
-    <td>angular2-inline</td>
-    <td>https://github.com/natewallace/angular2-inline</td>
-    <td>@Component.template内のHTMLをハイライト</td>
-  </tr>
-  <tr>
-    <td>Angular Support</td>
-    <td>https://github.com/VismaLietuva/vscode-angular-support</td>
-    <td>templateUrl、styleUrls から定義に飛べる。</td>
-  </tr>
-  <tr>
-    <td>TODO Highlight</td>
-    <td>https://github.com/wayou/vscode-todo-highlight</td>
-    <td>コメントの「TODO」が強調表示される。</td>
-  </tr>
-  <tr>
-    <td>TODO+</td>
-    <td>https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus</td>
-    <td>TODOのサイドバーが表示</td>
-  </tr>
-  <tr>
-    <td>Output Colorizer</td>
-    <td>https://github.com/IBM-Cloud/vscode-log-output-colorizer</td>
-    <td>OUTPUTに色がつく。</td>
-  </tr>
-  <tr>
-    <td>Studio Icons</td>
-    <td>https://github.com/jtlowe/studio-icons</td>
-    <td>Visual Studio 風アイコン</td>
-  </tr>
-  <tr>
-    <td>REST Client</td>
-    <td>https://marketplace.visualstudio.com/items?itemName=humao.rest-client</td>
-    <td>REST通信</td>
-  </tr>
-  <tr>
-    <td>Regex Previewer</td>
-    <td>https://marketplace.visualstudio.com/items?itemName=chrmarti.regex</td>
-    <td>正規表現デバッグ用</td>
-  </tr>
-  <tr>
-    <td>Rainbow CSV</td>
-    <td>https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv</td>
-    <td>CSVハイライト</td>
-  </tr>
-  <tr>
-    <td>Excel Viewer</td>
-    <td>https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer</td>
-    <td>Excel or CSV ファイルをハイライト表示</td>
-  </tr>
-  <tr>
-    <td>vscode-icons</td>
-    <td>https://github.com/vscode-icons/vscode-icons</td>
-    <td>アイコンセット</td>
-  </tr>
-  <tr>
-    <td>Docker</td>
-    <td>https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker</td>
-    <td>Docker関連便利ツール</td>
-  </tr>
-  <tr>
-    <td>Error Lens</td>
-    <td>https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens</td>
-    <td>警告・エラーをエディタ上にアイコン表示</td>
-  </tr>
-  <tr>
-    <td>filesize</td>
-    <td>https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize</td>
-    <td>ステータスバーにファイルサイズ表示</td>
-  </tr>
-  <tr>
-    <td>Version Lens</td>
-    <td>https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens</td>
-    <td>package.jsonに各パッケージの最新バージョンを表示</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+| 拡張機能名 | URL | 概要 |
+----|----|---- 
+| Shortcuts | https://github.com/gizak/vscode-shortcuts | ステータスバーにショートカットボタン追加 |
+| GitLens | https://github.com/eamodio/vscode-gitlens | CodeLensのGit版 |
+| Git History | https://github.com/DonJayamanne/gitHistoryVSCode | Gitのコミット履歴が一覧で見える |
+| zenkaku | https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku | 邪悪な全角スペースを強調表示してくれる |
+| Markdown PDF | https://github.com/yzane/vscode-markdown-pdf  | マークダウンをPDF化 |
+| Status Bar Read-Only Indicator | https://github.com/alefragnani/vscode-read-only-indicator | ファイルが読み取り専用かどうかをステータスバーに表示 |
+| CodeMetrics | https://github.com/kisstkondoros/codemetrics | コードの複雑度を見える化 |
+| Debugger for Chrome | https://github.com/Microsoft/vscode-chrome-debug | Chromeデバッガと連携 |
+| Angular Language Service | https://github.com/angular/vscode-ng-language-service | Angular開発サポート |
+| TSLint | https://github.com/Microsoft/vscode-tslint | TSLintの警告をエディタ上でチェック |
+| JSON to TS | https://github.com/MariusAlch/vscode-json-to-ts | JSON形式のデータをTypeScriptのインターフェースに変換します。 |
+| Path Intellisense | https://github.com/ChristianKohler/PathIntellisense | ファイルパスの入力補間 |
+| HTML CSS Support | https://github.com/ecmel/vscode-html-css | スタイルシートの入力補間等 |
+| Bookmarks | https://github.com/alefragnani/vscode-bookmarks | ブックマークを追加・ジャンプできる |
+| Bracket Pair Colorizer | https://github.com/CoenraadS/BracketPair | 括弧の色をネスト単位で変える |
+| angular2-inline | https://github.com/natewallace/angular2-inline | @Component.template内のHTMLをハイライト |
+| Angular Support | https://github.com/VismaLietuva/vscode-angular-support | templateUrl、styleUrls から定義に飛べる。 |
+| TODO Highlight | https://github.com/wayou/vscode-todo-highlight | コメントの「TODO」が強調表示される。 |
+| TODO+ | https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus | TODOのサイドバーが表示 |
+| Output Colorizer | https://github.com/IBM-Cloud/vscode-log-output-colorizer | OUTPUTに色がつく。 |
+| Studio Icons | https://github.com/jtlowe/studio-icons | Visual Studio 風アイコン |
+| REST Client | https://marketplace.visualstudio.com/items?itemName=humao.rest-client | REST通信 |
+| Regex Previewer | https://marketplace.visualstudio.com/items?itemName=chrmarti.regex | 正規表現デバッグ用 |
+| Rainbow CSV | https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv | CSVハイライト |
+| Excel Viewer | https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer | Excel or CSV ファイルをハイライト表示 |
+| vscode-icons | https://github.com/vscode-icons/vscode-icons  | アイコンセット |
+| Docker | https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker | Docker関連便利ツール |
+| Error Lens | https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens | 警告・エラーをエディタ上にアイコン表示 |
+| filesize | https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize  | ステータスバーにファイルサイズ表示 |
+| Version Lens | https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens 	package.jsonに各パッケージの最新バージョンを表示 |
 
   
