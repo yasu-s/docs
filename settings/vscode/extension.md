@@ -97,6 +97,11 @@
     <td>コメントの「TODO」が強調表示される。</td>
   </tr>
   <tr>
+    <td>TODO+</td>
+    <td>https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus</td>
+    <td>TODOのサイドバーが表示</td>
+  </tr>
+  <tr>
     <td>Output Colorizer</td>
     <td>https://github.com/IBM-Cloud/vscode-log-output-colorizer</td>
     <td>OUTPUTに色がつく。</td>
@@ -110,11 +115,6 @@
     <td>REST Client</td>
     <td>https://marketplace.visualstudio.com/items?itemName=humao.rest-client</td>
     <td>REST通信</td>
-  </tr>
-  <tr>
-    <td>TODO+</td>
-    <td>https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus</td>
-    <td>TODOのサイドバーが表示</td>
   </tr>
   <tr>
     <td>Regex Previewer</td>
@@ -135,6 +135,26 @@
     <td>vscode-icons</td>
     <td>https://github.com/vscode-icons/vscode-icons</td>
     <td>アイコンセット</td>
+  </tr>
+  <tr>
+    <td>Docker</td>
+    <td>https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker</td>
+    <td>Docker関連便利ツール</td>
+  </tr>
+  <tr>
+    <td>Error Lens</td>
+    <td>https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens</td>
+    <td>警告・エラーをエディタ上にアイコン表示</td>
+  </tr>
+  <tr>
+    <td>filesize</td>
+    <td>https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize</td>
+    <td>ステータスバーにファイルサイズ表示</td>
+  </tr>
+  <tr>
+    <td>Version Lens</td>
+    <td>https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens</td>
+    <td>package.jsonに各パッケージの最新バージョンを表示</td>
   </tr>
   <tr>
     <td></td>
