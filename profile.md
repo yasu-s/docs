@@ -21,28 +21,34 @@
 
 ## SESメインの企業在籍（2004年〜2014年）
 
-* 携帯電話通信テストモジュール開発：C++, CVS 
-* DVD物販サイト開発：Java, Struts, Oracle, VSS
-* 炎上案件たらい回し：C#, Jave, C++, SQL Server, Oracle, Windows Forms, ASP.NET WebService, VSS, Subversion, Hitachi
-* 不動産投資商品販売管理システム開発：VB.NET, Windows Forms, SQL Server, VSS
-* 物流会社向け配送計画システム開発 - 2008/11-2010/10：C#, WPF, WCF, SQL Server, VSS, アーキテクト
-* 配送計画パッケージソフト開発 - 2010/11-2014/09：C#, WPF, SQL Server, MSTest, TFS, Jenkins, アーキテクト
+| 案件名 | 期間 | 役割 | 技術・キーワード |
+----|----|----|----
+| 携帯電話通信テストモジュール開発 | 2004/05-2005/12 | PG | C++, CVS |
+| DVD物販サイト開発 | 2005/12-2007/06 | SE/PG | Java, Struts, Oracle, VSS |
+| 炎上案件たらい回し | 2007/06-2008/03 | SE/PG | C#, Jave, JavsScript, C++, SQL Server, Oracle, Windows Forms, ASP.NET WebService, VSS, Subversion, Hitachi |
+| 不動産投資商品販売管理システム開発 | 2008/04-2008/10 | SE/PG | VB.NET, Windows Forms, SQL Server, VSS |
+| 物流会社向け配送計画システム開発 | 2008/11-2010/10 | アーキテクト/SE/PG | C#, WPF, WCF, SQL Server, VSS |
+| 配送計画パッケージソフト開発 | 2010/11-2014/09 | アーキテクト/SE/PG | C#, WPF, SQL Server, MSTest, TFS, Jenkins |
 
 ## フリーランス（2015年1月〜）
 
-* 配送計画パッケージソフトカスタマイズ（菓子メーカー向け） - 2014/10-2015/06：C#, WPF, WCF, SQL Server, MSTest, TFS, Jenkins, アーキテクト/PL
-* 旅客列車向けレベニュー管理システム開発 - 2014/07-2016/03：C#, ASP.NET MVC, SQL Server, TypeScript, Knockout.js, MSTest, TFS, Jenkins, アーキテクト/PL
-* 貨物向けコンテナ配送管理システム開発 - 2016/04-2016/09：C#, WPF, ASP.NET MVC, SQL Server, MSTest, TFS, Jenkins, アーキテクト
-* 地域包括ケアアプリ開発 - 2016/10-2017/09：Cordova, TypeScript, Angular2-4, Ionic2, Bootstrap, Jasmine, GitLab, Jenkins, アーキテクト
-* 新規事業PoC開発（健康アプリ） - 2017/10-2018/03：Cordova, TypeScript, Angular4, Ionic2, TFS
-* 新規事業PoC開発（ChatBot) - 2017/07-2018/03：C#, ASP.NET MVC, Bot Framework, LUIS, TFS, PL
-* 新規事業PoC開発（備品管理） - 2018/01-2018/03：Cordova, TypeScript, Angular4, PrimeNG, Node.js, Express, Passport, Node-RED, TFS, PL
-  
+| 案件名 | 期間 | 役割 | 技術・キーワード |
+----|----|----|----
+| 配送計画パッケージソフトカスタマイズ（菓子メーカー向け） | 2014/10-2015/06 | アーキテクト/SE/PG | C#, WPF, WCF, SQL Server, MSTest, TFS, Jenkins |
+| 旅客列車向けレベニュー管理システム開発 | 2014/07-2016/03 | アーキテクト/PL | C#, ASP.NET MVC, Entity Framework, SQL Server, TypeScript, Knockout.js, MSTest, TFS, Jenkins |
+| 貨物向けコンテナ配送管理システム開発 | 2016/04-2016/09 | アーキテクト/SE/PG | C#, WPF, ASP.NET MVC, Entity Framework, SQL Server, MSTest, TFS, Jenkins |
+| 地域包括ケアアプリ開発 | 2016/10-2017/09 | アーキテクト/SE/PG | Cordova, TypeScript, Angular2-4, Ionic2, Bootstrap, Jasmine, GitLab, Jenkins |
+| 新規事業PoC開発（健康アプリ） | 2017/10-2018/03 | PG | Cordova, TypeScript, Angular4, Ionic2, TFS |
+| 新規事業PoC開発（ChatBot） | 2017/07-2018/03 | PL/SE/PG | C#, ASP.NET MVC, Bot Framework, LUIS, TFS |
+| 新規事業PoC開発（備品管理） | 2018/01-2018/03 | PL/SE/PG | Cordova, TypeScript, Angular4, PrimeNG, Node.js, Express, Passport, Node-RED, TFS |
+
 ## フリーランス：エージェント経由（2018年4月〜）
 
-* SDWAN管理コンソール開発 - 2018/04-2018/09： TypeScript, Angular4-6, Angular Material, JIRA, Bitbucket, スクラム開発
-* 新卒向け就職サイト開発 - 2018/10-： TypeScript, Angular4-7, Node.js, JIRA, GitHub, AWS Lambda/DynamoDB/CodeBuild, スクラム開発
-* 新卒向け就職エージェントサイト開発 - 2019/07-： TypeScript, Angular8, Angular Material, Node.js, Nest.js, JIRA, GitHub, AWS ECS/Aurora DB, リードエンジニア
+| 案件名 | 期間 | 役割 | 技術・キーワード |
+----|----|----|----
+| SDWAN管理コンソール開発 | 2018/04-2018/09 | エンジニア | TypeScript, Angular4-6, Angular Material, JIRA, Bitbucket, スクラム開発 |
+| 新卒向け就職サイト開発 | 2018/10- | エンジニア | TypeScript, Angular4-7, Node.js, JIRA, GitHub, AWS Lambda/DynamoDB/CodeBuild, スクラム開発 |
+| 新卒向け就職エージェントサイト開発 | 2019/07- | リードエンジニア | TypeScript, Angular8, Angular Material, Node.js, Nest.js, JIRA, GitHub, AWS ECS/Aurora DB |
 
 ## スキル  
 
