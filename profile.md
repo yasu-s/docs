@@ -33,6 +33,10 @@
   * MSTest plugin（ローカライズ） - https://github.com/jenkinsci/mstest-plugin
 * 技術ブログ執筆 - https://kakkoyakakko2.hatenablog.com/
 
+### アバターについて
+
+* FFが好きで、そこに出てくるモーグリというキャラに色々嫌がらせを受けたので、憎しみを忘れないためにアバターにしています。
+
 ## 経歴
 
 ### SESメインの企業在籍（2004年〜2014年）
@@ -53,6 +57,7 @@
 | 配送計画パッケージソフトカスタマイズ（菓子メーカー向け） | 2014/10-2015/06 | アーキテクト/SE/PG | C#, WPF, WCF, SQL Server, MSTest, TFS, Jenkins |
 | 旅客列車向けレベニュー管理システム開発 | 2014/07-2016/03 | アーキテクト/PL | C#, ASP.NET MVC, Entity Framework, SQL Server, TypeScript, Knockout.js, MSTest, TFS, Jenkins |
 | 貨物向けコンテナ配送管理システム開発 | 2016/04-2016/09 | アーキテクト/SE/PG | C#, WPF, ASP.NET MVC, Entity Framework, SQL Server, MSTest, TFS, Jenkins |
+| 他チーム支援 | 2016/01-2016/09 | SE/PG | テスト自動化レクチャー, CIレクチャー, チケット駆動レクチャー, パフォーマンスチューニングレクチャー, WordPress導入, FESS導入 |
 | 地域包括ケアアプリ開発 | 2016/10-2017/09 | アーキテクト/SE/PG | Cordova, TypeScript, Angular2-4, Ionic2, Bootstrap, Jasmine, GitLab, Jenkins |
 | 新規事業PoC開発（健康アプリ） | 2017/10-2018/03 | PG | Cordova, TypeScript, Angular4, Ionic2, TFS |
 | 新規事業PoC開発（ChatBot） | 2017/07-2018/03 | PL/SE/PG | C#, ASP.NET MVC, Bot Framework, LUIS, TFS |
@@ -73,19 +78,19 @@
 * TypeScript - 3年以上経験。現在一番触っている開発言語。
 * JavaScript - 5年以上経験。
 * C# - 10年以上経験。各プロジェクトではライブラリを提供する側を担当。
-* Java - 3年以上経験。
+* Java - 3年以上経験。OPP・DI・AOP・デザインパターンなどの知識はJavaから吸収。
 
 ### フレームワーク/ライブラリ/テクノロジー  
 
 #### JavaScript/CSS  
 
-* Angular 2/4/6/7/8 - Angular2がリリース後から経験。
+* Angular 2/4/6/7/8 - Angular2がリリース後から経験。全体構成含めて設計・実装可能。
   * Angular Material 6/8 
   * PrimeNG
 * jQuery
 * Bootstrap 
 * Knockout.js
-* RxJS
+* RxJS - Angular2がリリース後から経験。RxJS 6以降の変更にも対応可能。
 * Jasmine
 * Jest
 * Node.js
@@ -101,9 +106,9 @@
 #### Windows 
 
 * .NET Framework 2.0/3.5/4.5
-* WPF - 5年以上。カスタムコントロール作成、MVVM適用など経験あり。
-* WCF
-* Windows Forms
+* WPF - 5年以上。カスタムコントロール作成、MVVM適用など経験あり。Windows Forms相互運用機能などのマニアックな機能の使用経験あり。
+* WCF - 3年以上。最近はJSONメインなので使用せず。
+* Windows Forms - ユーザーコントロール作成なども可能。Win32APIでのHackも可能。
 * ASP.NET MVC
 * ADO.NET
 * EntityFramework
