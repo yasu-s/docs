@@ -46,7 +46,7 @@
 | 携帯電話通信テストモジュール開発 | 2004/05-2005/12 | PG | C++, CVS |
 | DVD物販サイト開発 | 2005/12-2007/06 | SE/PG | Java, Struts, Oracle, VSS |
 | 炎上案件たらい回し | 2007/06-2008/03 | SE/PG | C#, Jave, JavsScript, C++, SQL Server, Oracle, Windows Forms, ASP.NET WebService, GrapeCity SPREAD/InputMan/MultiRow, VSS, Subversion, Hitachi |
-| 不動産投資商品販売管理システム開発 | 2008/04-2008/10 | SE/PG | VB.NET, Windows Forms, SQL Server, VSS |
+| 不動産投資商品販売管理システム開発 | 2008/04-2008/10 | SE/PG | VB.NET, Windows Forms, SQL Server, GrapeCity SPREAD, VSS |
 | 物流会社向け配送計画システム開発 | 2008/11-2010/10 | アーキテクト/SE/PG | C#, WPF, WCF, SQL Server, Infragistics WPF, VSS |
 | 配送計画パッケージソフト開発 | 2010/11-2014/09 | アーキテクト/SE/PG | C#, WPF, SQL Server, MSTest, MappleG-SDK, Infragistics WPF, TFS, Jenkins |
 
@@ -68,7 +68,7 @@
 | 案件名 | 期間 | 役割 | 技術・キーワード |
 ----|----|----|----
 | SDWAN管理コンソール開発 | 2018/04-2018/09 | エンジニア | TypeScript, Angular4-6, Angular Material, JIRA, Bitbucket, スクラム開発 |
-| 新卒向け就職サイト開発 | 2018/10- | エンジニア | TypeScript, Angular4-7, Node.js, JIRA, GitHub, AWS Lambda/DynamoDB/CodeBuild, スクラム開発 |
+| 新卒向け就職サイト開発 | 2018/10- | エンジニア | TypeScript, Angular4-7, Node.js, JIRA, GitHub, AWS Lambda/DynamoDB/CodeBuild, Elasticsearch, スクラム開発 |
 | 新卒向け就職エージェントサイト開発 | 2019/07- | リードエンジニア | TypeScript, Angular8, Angular Material, Node.js, Nest.js, TypeORM, JIRA, GitHub, AWS ECS/Aurora DB, Chrome拡張機能開発, Docker |
 
 ## スキル  
