@@ -54,22 +54,22 @@
 
 | 案件名 | 期間 | 役割 | 開発言語 | 技術・キーワード |
 ----|----|----|----|----
-| 配送計画パッケージソフトカスタマイズ（菓子メーカー向け） | 2014/10-2015/06（兼務） | アーキテクト/SE/PG | C# | WPF, WCF, SQL Server,  IIS, MSTest,  MappleG-SDK, Infragistics WPF, TFS, Jenkins |
-| 旅客列車向けレベニュー管理システム開発 | 2014/07-2016/03（兼務） | アーキテクト/PL | C#, TypeScript, JavsScript | ASP.NET MVC, Entity Framework, SQL Server, IIS, Knockout.js, MSTest, Ignite UI, TFS, Jenkins |
-| 貨物向けコンテナ配送管理システム開発 | 2016/04-2016/09（兼務） | アーキテクト/SE/PG | C# | WPF, ASP.NET MVC, Entity Framework, SQL Server, IIS, MSTest, TFS, Jenkins |
-| 他チーム支援 | 2016/01-2016/09（兼務） | SE/PG | - | テスト自動化レクチャー, CIレクチャー, チケット駆動レクチャー, パフォーマンスチューニングレクチャー, WordPress導入, FESS導入 |
+| 配送計画パッケージソフトカスタマイズ（菓子メーカー向け） | 2014/10-2015/06（兼） | アーキテクト/SE/PG | C# | WPF, WCF, SQL Server,  IIS, MSTest,  MappleG-SDK, Infragistics WPF, TFS, Jenkins |
+| 旅客列車向けレベニュー管理システム開発 | 2014/07-2016/03（兼） | アーキテクト/PL | C#, TypeScript, JavsScript | ASP.NET MVC, Entity Framework, SQL Server, IIS, Knockout.js, MSTest, Ignite UI, TFS, Jenkins |
+| 貨物向けコンテナ配送管理システム開発 | 2016/04-2016/09（兼） | アーキテクト/SE/PG | C# | WPF, ASP.NET MVC, Entity Framework, SQL Server, IIS, MSTest, TFS, Jenkins |
+| 他チーム支援 | 2016/01-2016/09（兼） | SE/PG | - | テスト自動化レクチャー, CIレクチャー, チケット駆動レクチャー, パフォーマンスチューニングレクチャー, WordPress導入, FESS導入 |
 | 地域包括ケアアプリ開発 | 2016/10-2017/09 | アーキテクト/SE/PG | TypeScript | Cordova, Angular2-4, Ionic2, Bootstrap, Jasmine, GitLab, Jenkins |
-| 新規事業PoC開発（健康アプリ） | 2017/10-2018/03（兼務） | PG | TypeScript | Cordova, Angular4, Ionic2, TFS |
-| 新規事業PoC開発（ChatBot） | 2017/07-2018/03（兼務） | PL/SE/PG | C# | ASP.NET MVC, IIS, Bot Framework, LUIS, TFS |
-| 新規事業PoC開発（備品管理） | 2018/01-2018/03（兼務） | PL/SE/PG | TypeScript | Cordova, Angular4, PrimeNG, Node.js, Express, Passport, Node-RED, TFS |
+| 新規事業PoC開発（健康アプリ） | 2017/10-2018/03（兼） | PG | TypeScript | Cordova, Angular4, Ionic2, TFS |
+| 新規事業PoC開発（ChatBot） | 2017/07-2018/03（兼） | PL/SE/PG | C# | ASP.NET MVC, IIS, Bot Framework, LUIS, TFS |
+| 新規事業PoC開発（備品管理） | 2018/01-2018/03（兼） | PL/SE/PG | TypeScript | Cordova, Angular4, PrimeNG, Node.js, Express, Passport, Node-RED, TFS |
 
 ### フリーランス：エージェント経由（2018年4月〜）
 
 | 案件名 | 期間 | 役割 | 開発言語 | 技術・キーワード |
 ----|----|----|----|----
 | SDWAN管理コンソール開発 | 2018/04-2018/09 | エンジニア | TypeScript | Angular4-6, Angular Material, JIRA, Bitbucket, スクラム開発 |
-| 新卒向け就職サイト開発 | 2018/10-（兼務） | エンジニア | TypeScript | Angular4-7, Node.js, JIRA, GitLab, GitHub, AWS Lambda/DynamoDB/CodeBuild, Elasticsearch, スクラム開発 |
-| 新卒向け就職エージェントサイト開発 | 2019/07-（兼務） | リードエンジニア | TypeScript | Angular8, Angular Material, Node.js, Nestjs, TypeORM, Prettier, JIRA, GitHub, AWS ECS/Aurora DB, Chrome拡張機能, Docker |
+| 新卒向け就職サイト開発 | 2018/10-（兼） | エンジニア | TypeScript | Angular4-7, Node.js, JIRA, GitLab, GitHub, AWS Lambda/DynamoDB/CodeBuild, Elasticsearch, スクラム開発 |
+| 新卒向け就職エージェントサイト開発 | 2019/07-（兼） | リードエンジニア | TypeScript | Angular8, Angular Material, Node.js, Nestjs, TypeORM, Prettier, JIRA, GitHub, AWS ECS/Aurora DB, Chrome拡張機能, Docker |
 
 ## スキル  
 
