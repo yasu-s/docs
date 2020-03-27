@@ -48,7 +48,7 @@
 | 炎上案件たらい回し | 2007/06-2008/03 | SE/PG | C#, Jave, JavsScript, C++ | SQL Server, Oracle, Tomcat, IIS, Windows Forms, ASP.NET WebService, GrapeCity SPREAD/InputMan/MultiRow, VSS, Subversion, Hitachi |
 | 不動産投資商品販売管理システム開発 | 2008/04-2008/10 | SE/PG | VB.NET | Windows Forms, SQL Server, GrapeCity SPREAD, VSS |
 | 物流会社向け配送計画システム開発 | 2008/11-2010/10 | アーキテクト/SE/PG | C# | WPF, WCF, SQL Server, IIS, Infragistics WPF, VSS |
-| 配送計画パッケージソフト開発 | 2010/11-2014/09 | アーキテクト/SE/PG | C# | WPF, SQL Server, MSTest, MappleG-SDK, Infragistics WPF, TFS, Jenkins |
+| 配送計画パッケージソフト開発 | 2010/11-2014/09 | アーキテクト/SE/PG | C# | WPF, SQL Server, MSTest, MappleG-SDK, Infragistics WPF, TFS, Jenkins, Redmine |
 
 ### フリーランス（2015年1月〜）
 
@@ -57,7 +57,7 @@
 | 配送計画パッケージソフトカスタマイズ（菓子メーカー向け） | 2014/10-2015/06 ※1 | アーキテクト/SE/PG | C# | WPF, WCF, SQL Server,  IIS, MSTest,  MappleG-SDK, Infragistics WPF, TFS, Jenkins |
 | 旅客列車向けレベニュー管理システム開発 | 2014/07-2016/03 ※1 | アーキテクト/PL | C#, TypeScript, JavsScript | ASP.NET MVC, Entity Framework, SQL Server, IIS, Knockout.js, MSTest, Ignite UI, TFS, Jenkins |
 | 貨物向けコンテナ配送管理システム開発 | 2016/04-2016/09 ※1 | アーキテクト/SE/PG | C# | WPF, ASP.NET MVC, Entity Framework, SQL Server, IIS, MSTest, TFS, Jenkins |
-| 他チーム支援 | 2016/01-2016/09 ※1 | SE/PG | - | テスト自動化レクチャー, CIレクチャー, チケット駆動レクチャー, パフォーマンスチューニングレクチャー, WordPress導入, FESS導入 |
+| 他チーム支援・技術検証 | 2016/01-2016/09 ※1 | SE/PG | - | テスト自動化レクチャー, CIレクチャー, チケット駆動レクチャー, パフォーマンスチューニングレクチャー, WordPress導入, FESS導入, Bot Framework, LUIS, Microsoft Remote App |
 | 地域包括ケアアプリ開発 | 2016/10-2017/09 | アーキテクト/SE/PG | TypeScript | Cordova, Angular2-4, Ionic2, Bootstrap, Jasmine, GitLab, Jenkins |
 | 新規事業PoC開発（健康アプリ） | 2017/10-2018/03 ※1 | PG | TypeScript | Cordova, Angular4, Ionic2, TFS |
 | 新規事業PoC開発（ChatBot） | 2017/07-2018/03 ※1 | PL/SE/PG | C# | ASP.NET MVC, IIS, Bot Framework, LUIS, TFS |
@@ -70,7 +70,7 @@
 | 案件名 | 期間 | 役割 | 開発言語 | 技術・キーワード |
 ----|----|----|----|----
 | SDWAN管理コンソール開発 | 2018/04-2018/09 | エンジニア | TypeScript | Angular4-6, Angular Material, JIRA, Bitbucket, スクラム開発 |
-| 新卒向け就職サイト開発 | 2018/10--2020/03 ※1 | エンジニア | TypeScript | Angular4-7, Node.js, JIRA, GitLab, GitHub, AWS Lambda/Cognito/DynamoDB/CodeBuild, Elasticsearch, スクラム開発 |
+| 新卒向け就職サイト開発 | 2018/10-2020/03 ※1 | エンジニア | TypeScript | Angular4-7, Node.js, JIRA, GitLab, GitHub, AWS Lambda/Cognito/DynamoDB/CodeBuild, Elasticsearch, スクラム開発 |
 | 新卒向け就職エージェントサイト開発 | 2019/07-2020/01 ※1 | リードエンジニア | TypeScript | Angular8, Angular Material, Node.js, Nestjs, TypeORM, Prettier, JIRA, GitHub, AWS ECS/Cognito/Aurora DB, Chrome拡張機能, Docker |
 
 ※1：兼務
