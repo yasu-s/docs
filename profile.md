@@ -43,7 +43,7 @@
 
 | 案件名 | 期間 | 役割 | 開発言語 | 技術・キーワード |
 ----|----|----|----|----
-| 携帯電話通信テストモジュール開発 | 2004/05-2005/12 | PG | C++ | CVS |
+| 携帯電話通信テストモジュール開発 | 2004/05-2005/12 | PG | C++ | CVS, 3G/GSM/GPRS, Anritsu シグナリングテスタ |
 | DVD物販サイト開発 | 2005/12-2007/06 | SE/PG | Java, JavsScript | Struts, Oracle, Oracle Application Server, Apache, Tomcat, VSS |
 | 炎上案件たらい回し | 2007/06-2008/03 | SE/PG | C#, Jave, JavsScript, C++ | SQL Server, Oracle, Tomcat, IIS, Windows Forms, ASP.NET WebService, GrapeCity SPREAD/InputMan/MultiRow, VSS, Subversion, Hitachi |
 | 不動産投資商品販売管理システム開発 | 2008/04-2008/10 | SE/PG | VB.NET | Windows Forms, SQL Server, GrapeCity SPREAD, VSS |
@@ -70,16 +70,21 @@
 | 案件名 | 期間 | 役割 | 開発言語 | 技術・キーワード |
 ----|----|----|----|----
 | SDWAN管理コンソール開発 | 2018/04-2018/09 | エンジニア | TypeScript | Angular4-6, Angular Material, JIRA, Bitbucket, スクラム開発 |
-| 新卒向け就職サイト開発 | 2018/10- ※1 | エンジニア | TypeScript | Angular4-7, Node.js, JIRA, GitLab, GitHub, AWS Lambda/Cognito/DynamoDB/CodeBuild, Elasticsearch, スクラム開発 |
+| 新卒向け就職サイト開発 | 2018/10--2020/03 ※1 | エンジニア | TypeScript | Angular4-7, Node.js, JIRA, GitLab, GitHub, AWS Lambda/Cognito/DynamoDB/CodeBuild, Elasticsearch, スクラム開発 |
 | 新卒向け就職エージェントサイト開発 | 2019/07-2020/01 ※1 | リードエンジニア | TypeScript | Angular8, Angular Material, Node.js, Nestjs, TypeORM, Prettier, JIRA, GitHub, AWS ECS/Cognito/Aurora DB, Chrome拡張機能, Docker |
 
 ※1：兼務
+
+### フリーランス（2020年4月〜）
+
+| 案件名 | 期間 | 役割 | 開発言語 | 技術・キーワード |
+----|----|----|----|----
 
 ## スキル  
 
 ### 開発言語  
 
-* TypeScript - 3年以上経験。現在一番触っている開発言語。
+* TypeScript - 5年以上経験。現在一番触っている開発言語。
 * JavaScript - 5年以上経験。
 * C# - 10年以上経験。各プロジェクトではライブラリを提供する側を担当。
 * Java - 3年以上経験。OPP・DI・AOP・デザインパターンなどの知識はJavaから吸収。
@@ -91,6 +96,7 @@
 * Angular 2/4/6/7/8 - Angular2がリリース後から経験。全体構成含めて設計・実装可能。
   * Angular Material 6/8 
   * PrimeNG
+  * ng-bootstrap 
 * jQuery
 * Bootstrap 
 * Knockout.js
@@ -157,4 +163,7 @@
 * AWS
   * Lambda 
   * DynamoDB
+  * Cognito
+  * SES
+  * ECS
 
