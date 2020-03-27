@@ -43,7 +43,7 @@
 
 | 案件名 | 期間 | 役割 | 開発言語 | 技術・キーワード |
 ----|----|----|----|----
-| 携帯電話通信テストモジュール開発 | 2004/05-2005/12 | PG | C++ | CVS, 3G/GSM/GPRS, Anritsu シグナリングテスタ |
+| 携帯電話通信テストモジュール開発 | 2004/05-2005/12 | PG | C++ | CVS, 3G/GSM/GPRS, Anritsu シグナリングテスタ（基地局シミュレータ） |
 | DVD物販サイト開発 | 2005/12-2007/06 | SE/PG | Java, JavsScript | Struts, Oracle, Oracle Application Server, Apache, Tomcat, VSS |
 | 炎上案件たらい回し | 2007/06-2008/03 | SE/PG | C#, Jave, JavsScript, C++ | SQL Server, Oracle, Tomcat, IIS, Windows Forms, ASP.NET WebService, GrapeCity SPREAD/InputMan/MultiRow, VSS, Subversion, Hitachi |
 | 不動産投資商品販売管理システム開発 | 2008/04-2008/10 | SE/PG | VB.NET | Windows Forms, SQL Server, GrapeCity SPREAD, VSS |
