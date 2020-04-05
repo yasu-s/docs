@@ -71,7 +71,7 @@
 ----|----|----|----|----
 | SDWAN管理コンソール開発 | 2018/04-2018/09 | エンジニア | TypeScript | Angular4-6, Angular Material, Jasmine, TSLint, JIRA, Bitbucket, スクラム開発 |
 | 新卒向け就職サイト開発 | 2018/10-2020/03 ※1 | エンジニア | TypeScript | Angular4-7, Jasmine, TSLint, Node.js, JIRA, GitLab, GitHub, AWS Lambda/Cognito/DynamoDB/CodeBuild, Elasticsearch, スクラム開発 |
-| 新卒向け就職エージェントサイト開発 | 2019/07-2020/01 ※1 | リードエンジニア | TypeScript | Angular8, Angular Material, Jasmine,  TSLint, Node.js, Nestjs, TypeORM, axios, Jest, Prettier, JIRA, GitHub, AWS ECS/Cognito/Aurora DB, Chrome拡張機能, Docker |
+| 新卒向け就職エージェントサイト開発 | 2019/07-2020/01 ※1 | リードエンジニア | TypeScript | Angular8, Angular Material, Jasmine,  TSLint, Node.js, Nestjs, TypeORM, axios, Jest, Prettier, JIRA, GitHub/GitHub Actions, AWS ECS/Cognito/Aurora DB, Chrome拡張機能, Docker |
 
 ※1：兼務
 
