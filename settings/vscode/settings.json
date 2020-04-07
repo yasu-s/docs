@@ -91,5 +91,17 @@
             "DarkOrange"
         ],
         "Red"
-    ]
+    ],
+    
+    "scm.defaultViewMode": "tree",
+    "editor.suggestSelection": "first",
+    "search.showLineNumbers": true,
+    "explorer.confirmDragAndDrop": false,
+    "breadcrumbs.enabled": true,
+    "editor.codeLens": true,
+    "editor.suggest.localityBonus": true,
+    "merge-conflict.diffViewPosition": "Below",
+    
+    "errorLens.gutterIconsEnabled": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 }
