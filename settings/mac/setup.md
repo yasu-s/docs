@@ -15,18 +15,33 @@
     * `メニューバーにバッテリーの状況を表示` をチェック
 * 非表示フォルダ表示  
   * command + shift + .(ドット）
+* 拡張子表示
+  * Finder -> 環境設定 -> 詳細
+    * `すべてのファイル名拡張子を表示` をチェック
 * Spotlightのショートカットを無効化
   * システム環境設定 -> キーボード -> ショートカット -> Spotlight
     * `Spotlight検索を表示` のチェックを解除
- 
+
+* ライブ変換無効
+  * システム環境設定 -> キーボード -> 入力ソース
+    * `ライブ変換` を無効
+    * `タイプミスを修正` を無効
 
 ## 開発環境設定  
 
 * Git  
+  * 鍵情報など
 * Node.js  
-
+* VSCode
+  * コンテキストメニューに追加
+    * Automatorで追加
+    * https://qiita.com/hiroyuki7/items/a3fcdf943c313473ecee
+  
 ## Chrome
 
 * デバッグ用の設定
+  * Automator -> アプリケーションの作成 -> シェルスクリプトを実行
+    * `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222`
+    * アイコンについては「情報を見る」から設定
 
 
