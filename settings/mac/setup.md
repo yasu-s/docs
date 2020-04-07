@@ -43,5 +43,11 @@
   * Automator -> アプリケーションの作成 -> シェルスクリプトを実行
     * `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222`
     * アイコンについては「情報を見る」から設定
+* 拡張機能
+  * [Angury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) - Angularデバッグを補助してくれる拡張
+  * [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=ja) - NgRx使用時のデバッグ補助
+  * [Linkify JIRA Issues](https://chrome.google.com/webstore/detail/linkify-jira-issues/ekbbnaokafbanjgmcbllligemhiclbcb) - WEBサイトにJIRAチケットのリンクを差し込む拡張。GitHubサイトで有効化すると良い
+  * [abehiroshize](https://chrome.google.com/webstore/detail/abehiroshize/okffapkklocfabdipcgpaiibomcjdopp) - WEBサイトを爆速にする
+  * [MISAWA::MD](https://chrome.google.com/webstore/detail/misawamd/legplkhbgdelfceignhcchogkmoflagl?hl=ja) - Markdownで入れる画像に悩んだ時に
 
 
