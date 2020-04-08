@@ -36,7 +36,9 @@
   * コンテキストメニューに追加
     * Automatorで追加
     * https://qiita.com/hiroyuki7/items/a3fcdf943c313473ecee
-  
+* Skitch
+* Postman
+
 ## Chrome
 
 * デバッグ用の設定
