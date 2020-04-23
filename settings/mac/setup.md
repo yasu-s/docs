@@ -15,6 +15,7 @@
     * `メニューバーにバッテリーの状況を表示` をチェック
 * 非表示フォルダ表示  
   * command + shift + .(ドット）
+  * `defaults write com.apple.finder AppleShowAllFiles TRUE`
 * 拡張子表示
   * Finder -> 環境設定 -> 詳細
     * `すべてのファイル名拡張子を表示` をチェック
