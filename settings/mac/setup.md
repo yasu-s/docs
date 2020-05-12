@@ -44,7 +44,7 @@
 
 * デバッグ用の設定
   * Automator -> アプリケーションの作成 -> シェルスクリプトを実行
-    * `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222`
+    * `open -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args  --remote-debugging-port=9222`
     * アイコンについては「情報を見る」から設定
 * 拡張機能
   * [Angury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) - Angularデバッグを補助してくれる拡張
