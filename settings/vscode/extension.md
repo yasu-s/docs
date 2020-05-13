@@ -32,5 +32,6 @@
 | Error Lens | https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens | 警告・エラーをエディタ上にアイコン表示 |
 | filesize | https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize  | ステータスバーにファイルサイズ表示 |
 | Version Lens | https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens  | package.jsonに各パッケージの最新バージョンを表示 |
+| Draw.io Integration | https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio | Draw.io の機能が使えます。フローチャートや構成図作成など |
 
   
