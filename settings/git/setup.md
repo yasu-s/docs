@@ -9,3 +9,6 @@
 
 * 認証情報保存  
 `git config --global credential.helper wincred`
+
+* 改行コードの維持（Windows）  
+`git config --global core.autocrlf false`
