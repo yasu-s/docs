@@ -34,5 +34,7 @@
 | Version Lens | https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens  | package.jsonに各パッケージの最新バージョンを表示 |
 | Draw.io Integration | https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio | Draw.io の機能が使えます。フローチャートや構成図作成など |
 | Task Explorer | https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer | VSCodeで登録したタスクを一覧表示・実行・中断できます。NPMスクリプト以外でも対応可能です。 |
+| PHP Intelephense | https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client |PHP用のインテリセンス拡張 |
+| Remote - Containers | https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers | Docker上で開発 |
 
   
