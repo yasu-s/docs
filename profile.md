@@ -79,7 +79,7 @@
 
 | 案件名 | 期間 | 役割 | 開発言語 | 技術・キーワード |
 ----|----|----|----|----
-| クラウドファンディングサイト開発 | 2020/04- | エンジニア | PHP, Go, JavaScript| FuelPHP, Gin, Vue.js, jQuery, AWS ECS/Aurora DB, Elasticsearch, Docker, API Blueprint |
+| クラウドファンディングサイト開発 | 2020/04-2020/09 | エンジニア | PHP, Go, JavaScript| FuelPHP, Smarty, Gin, Vue.js, jQuery, AWS ECS/Aurora DB, Elasticsearch, Docker, API Blueprint |
 
 ## スキル  
 
