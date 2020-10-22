@@ -169,4 +169,5 @@
   * SES
   * ECS(Fargate)
   * Aurora DB
+  * Elasticsearch Service
 
