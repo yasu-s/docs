@@ -109,6 +109,7 @@
   * Express 
   * NestJS
   * TypeORM
+* Lodash
 
 #### Mobile
 
