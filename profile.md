@@ -58,7 +58,7 @@
 | 旅客列車向けレベニュー管理システム開発 | 2014/07-2016/03 ※1 | アーキテクト/PL | C#, TypeScript, JavsScript | ASP.NET MVC, Entity Framework, SQL Server, IIS, Knockout.js, MSTest, FxCop/StyleCop, Ignite UI, TFS, Jenkins |
 | 貨物向けコンテナ配送管理システム開発 | 2016/04-2016/09 ※1 | アーキテクト/SE/PG | C# | WPF, ASP.NET MVC, Entity Framework, SQL Server, IIS, MSTest, FxCop/StyleCop, TFS, Jenkins |
 | 他チーム支援・技術検証 | 2016/01-2016/09 ※1 | SE/PG | - | テスト自動化レクチャー, CIレクチャー, チケット駆動レクチャー, パフォーマンスチューニングレクチャー, WordPress導入, FESS導入, Bot Framework, LUIS, Microsoft Remote App |
-| 地域包括ケアアプリ開発 | 2016/10-2017/09 | アーキテクト/SE/PG | TypeScript | Cordova, Angular2-4, Ionic2, Bootstrap, Jasmine, TSLint, GitLab, Jenkins |
+| 地域包括ケアアプリ開発 | 2016/10-2017/09 | アーキテクト/SE/PG | TypeScript | Cordova, Angular2-4, Ionic2, Bootstrap, Jasmine, TSLint, GitLab, Jenkins, Mattermost |
 | 新規事業PoC開発（健康アプリ） | 2017/10-2018/03 ※1 | PG | TypeScript | Cordova, Angular4, Ionic2, TFS |
 | 新規事業PoC開発（ChatBot） | 2017/07-2018/03 ※1 | PL/SE/PG | C# | ASP.NET MVC, IIS, Bot Framework, LUIS, TFS |
 | 新規事業PoC開発（備品管理） | 2018/01-2018/03 ※1 | PL/SE/PG | TypeScript | Cordova, Angular4, PrimeNG, Node.js, Express, Passport, Node-RED, TFS |
