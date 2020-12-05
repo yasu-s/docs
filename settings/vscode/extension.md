@@ -37,5 +37,6 @@
 | Task Explorer | https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer | VSCodeで登録したタスクを一覧表示・実行・中断できます。NPMスクリプト以外でも対応可能です。 |
 | PHP Intelephense | https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client |PHP用のインテリセンス拡張 |
 | Remote - Containers | https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers | Docker上で開発 |
+| Syntax Highlighting for yarn.lock files | https://marketplace.visualstudio.com/items?itemName=mariusschulz.yarn-lock-syntax | yarn.lock をハイライト表示|
 
   
