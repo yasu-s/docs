@@ -1,9 +1,10 @@
+// 既定の設定を上書きするには、このファイル内に設定を挿入します
 {
 // エディター
     // 1 つのタブに相当するスペースの数。`editor.detectIndentation` がオンの場合、この設定はファイル コンテンツに基づいて上書きされます。
     "editor.tabSize": 4,
     // 垂直ルーラーを表示する列
-    "editor.rulers": [80, 120],
+    "editor.rulers": [ 80, 120 ],
     // ファイルを開くと、そのファイルの内容に基づいて `editor.tabSize` と `editor.insertSpaces` が検出されます。
     "editor.detectIndentation": false,
     // Ctrl キーを押しながらマウス ホイールを使用してエディターのフォントをズームします
@@ -12,19 +13,13 @@
     "editor.renderIndentGuides": true,
     // エディターで空白文字を表示する方法を制御します。'none'、'boundary' および 'all' が使用可能です。'boundary' オプションでは、単語間の単一スペースは表示されません。
     "editor.renderWhitespace": "all",
-    // ミニマップのスライダーを自動的に非表示にするかどうかを制御します。
-    "editor.minimap.showSlider": "always",
-    // エディターで制御文字を表示するかどうかを制御します。
-    "editor.renderControlCharacters": true,
+    // ミニマップを表示するかどうかを制御します
+    "editor.minimap.enabled": false,
 
 // エクスプローラー
     // エクスプローラーでファイルを開くとき、自動的にファイルの内容を表示して選択するかどうかを制御します。
     "explorer.autoReveal": false,
-    
- // windows
-    // アクティブなエディターに基づいてウィンドウのタイトル
-    "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
-  
+
 // ファイル
     // ファイルとフォルダーを除外するための glob パターンを構成します。
     "files.exclude": {
@@ -35,50 +30,45 @@
         "**/node_modules": true
     },
 
+    // 有効にすると、ファイルの保存時に末尾の空白をトリミングします。
+    "files.trimTrailingWhitespace": true,
+
+ // windows
+    // アクティブなエディターに基づいてウィンドウのタイトル
+    "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
+
 // HTTP
     // 使用するプロキシ設定。設定されていない場合、環境変数 http_proxy および https_proxy から取得されます。
     "http.proxy": "",
 
-// ワークベンチ
-    // 開かれるエディターをプレビューとして表示するかどうかを制御します。プレビュー エディターは (例: ダブル クリックまたは編集などによって) 変更される時まで再利用し、斜体で表示します。
-    "workbench.editor.enablePreview": false,
-    
-// 統合端末
-    // 端末がそのバッファーに保持できる最大行数を制御します。
-    "terminal.integrated.scrollback": 10000,
-    
-// telemetry
-    // クラッシュ レポートを Microsoft に送信するように設定します。
-    // このオプションを有効にするには、再起動が必要です。
-    "telemetry.enableCrashReporter": false,
-
-    // 利用状況データとエラーを Microsoft に送信できるようにします。
-    "telemetry.enableTelemetry": false,
-
 // workbench
+    "workbench.editor.enablePreview": false,
     "workbench.statusBar.visible": true,
     "workbench.sideBar.location": "right",
-
-// TypeScript
+    "workbench.colorTheme": "Default Light+",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "explorer.confirmDragAndDrop": false,
+    // TypeScript
     // 使用する tsserver と lib*.d.ts ファイルが含まれているフォルダーのパスを指定します。
-    "typescript.tsdk": "node_modules\\typescript\\lib",
+    // "typescript.tsdk": "C:\\Users\\y-saitou\\AppData\\Roaming\\npm\node_modules\\typescript\\lib"
 
-// NPM
-    // npm スクリプトのエクスプ ローラー ビューを有効にします。
-    "npm.enableScriptExplorer": true,
-  
-// 開発言語別設定
     "[markdown]": {
-        // 有効にすると、ファイルの保存時に末尾の空白をトリミングします。
         "files.trimTrailingWhitespace": false
     },
     "[typescript]": {
         // 有効にすると、ファイルの保存時に末尾の空白をトリミングします。
-        "files.trimTrailingWhitespace": true
+        "files.trimTrailingWhitespace": true,
     },
-    
-// 拡張設定
-    // Define paired characters and their shared color group
+
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.historyExplorer.enabled": true,
+    "npm.enableScriptExplorer": true,
+
+     // Define paired characters and their shared color group
     "bracketPairColorizer.consecutivePairColors": [
         "()",
         "[]",
@@ -92,16 +82,45 @@
         ],
         "Red"
     ],
-    
-    "scm.defaultViewMode": "tree",
-    "editor.suggestSelection": "first",
-    "search.showLineNumbers": true,
-    "explorer.confirmDragAndDrop": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "gitlens.gitExplorer.files.layout": "list",
+    "typescript.updateImportsOnFileMove.enabled": "never",
     "breadcrumbs.enabled": true,
     "editor.codeLens": true,
     "editor.suggest.localityBonus": true,
+    "search.showLineNumbers": true,
+    "editor.renderControlCharacters": true,
+    "gitlens.views.repositories.files.layout": "tree",
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true,
+    "terminal.integrated.rendererType": "dom",
+    "git.autofetch": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.gotoLocation.multiple": "goto",
     "merge-conflict.diffViewPosition": "Below",
-    
-    "errorLens.gutterIconsEnabled": true,
+    "vsicons.projectDetection.disableDetect": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "[git-commit]": {},
+    "scm.defaultViewMode": "tree",
+    "vsnotes.defaultNotePath": "D:\\vsnote",
+    "local-history.path": "V:\\\\history",
+    "testExplorer.mergeSuites": true,
+    "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "errorLens.gutterIconsEnabled": true,
+    "indentRainbow.colors": [
+      "rgba(0,0,0,0.1)",
+      "rgba(69,69,69,0.1)",
+      "rgba(0,0,255,0.07)",
+      "rgba(0,255,0,0.07)",
+      "rgba(255,255,0,0.07)",
+      "rgba(255,0,0,0.07)",
+      "rgba(0,0,0,0.07)"
+    ],
+    "explorer.compactFolders": false,
+    "taskExplorer.enableGradle": false,
+    "taskExplorer.enableGrunt": false,
+    "taskExplorer.enableNsis": false,
+    "taskExplorer.enablePerl": false,
+    "eslint.migration.2_x": "off",
 }
