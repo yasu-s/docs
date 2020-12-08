@@ -123,4 +123,5 @@
     "taskExplorer.enableNsis": false,
     "taskExplorer.enablePerl": false,
     "eslint.migration.2_x": "off",
+    "editor.mouseWheelZoom": false,
 }
