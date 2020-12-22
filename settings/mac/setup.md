@@ -41,6 +41,7 @@
   * セキュリティとプライバシーで画面収録を可能にする
   * 環境設定、同期でEvernoteに保存を手動にする
 * Postman
+* HomeBrew
 
 ## Chrome
 
