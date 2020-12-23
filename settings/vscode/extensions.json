@@ -3,6 +3,15 @@
         "msjsdiag.debugger-for-chrome",
         "eg2.tslint",
         "Angular.ng-template",
-        "MariusAlchimavicius.json-to-ts"
+        "MariusAlchimavicius.json-to-ts",
+        "usernamehw.errorlens",
+        "mkxml.vscode-filesize",
+        "eamodio.gitlens",
+        "christian-kohler.path-intellisense",
+        "visualstudioexptteam.vscodeintellicode",
+        "shardulm94.trailing-spaces",
+        "mosapride.zenkaku",
+        "gizak.shortcuts",
+        "spmeesseman.vscode-taskexplorer",
     ]
 }
