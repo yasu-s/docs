@@ -81,6 +81,13 @@
 ----|----|----|----|----
 | クラウドファンディングサイト開発 | 2020/04-2020/09 | エンジニア | PHP, Go, JavaScript| FuelPHP, Smarty, Gin, Vue.js, jQuery, AWS ECS/Aurora DB, Elasticsearch, Docker, API Blueprint, Storybook, Vegeta, Slack |
 
+### フリーランス：エージェント経由（2020年12月〜）
+
+
+| 案件名 | 期間 | 役割 | 開発言語 | 技術・キーワード |
+----|----|----|----|----
+
+
 ## スキル  
 
 ### 開発言語  
