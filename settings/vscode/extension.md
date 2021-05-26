@@ -39,5 +39,6 @@
 | PHP Intelephense | https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client |PHP用のインテリセンス拡張 |
 | Remote - Containers | https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers | Docker上で開発 |
 | Syntax Highlighting for yarn.lock files | https://marketplace.visualstudio.com/items?itemName=mariusschulz.yarn-lock-syntax | yarn.lock をハイライト表示|
+| Json Editor | https://marketplace.visualstudio.com/items?itemName=nickdemayo.vscode-json-editor | JSONエディタ |
 
   
