@@ -45,6 +45,7 @@
   * 環境設定、同期でEvernoteに保存を手動にする
 * Postman
 * HomeBrew
+* Clipy
 
 ## Chrome
 
@@ -58,5 +59,6 @@
   * [Linkify JIRA Issues](https://chrome.google.com/webstore/detail/linkify-jira-issues/ekbbnaokafbanjgmcbllligemhiclbcb) - WEBサイトにJIRAチケットのリンクを差し込む拡張。GitHubサイトで有効化すると良い
   * [abehiroshize](https://chrome.google.com/webstore/detail/abehiroshize/okffapkklocfabdipcgpaiibomcjdopp) - WEBサイトを爆速にする
   * [MISAWA::MD](https://chrome.google.com/webstore/detail/misawamd/legplkhbgdelfceignhcchogkmoflagl?hl=ja) - Markdownで入れる画像に悩んだ時に
+  * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Vue.jsデバッグツール
 
 
