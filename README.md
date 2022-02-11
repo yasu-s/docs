@@ -11,4 +11,6 @@
 
 # 各種リンク
 
-* はてぶ - https://kakkoyakakko2.hatenablog.com/
+- はてぶ - https://kakkoyakakko2.hatenablog.com/
+- Zenn - https://zenn.dev/kakkoyakakko
+
