@@ -134,4 +134,11 @@
         "editorBracketHighlight.foreground5": "#ff8c00",
         "editorBracketHighlight.foreground6": "#ff0000"
     },
+    "shortcuts.buttons": [
+      "terminal , workbench.action.terminal.toggleTerminal , Toggle terminal panel",
+      "telescope , workbench.action.showCommands , Show command palette",
+      "file-binary , typescript.restartTsServer , TypeScript restart",
+      "refresh , eslint.restart , ESLint restart",
+      "extensions , workbench.action.restartExtensionHost , Extension restart"
+    ],
 }
