@@ -3,6 +3,11 @@
 ## 目次
 
 - [プロフィール](#プロフィール)
+  - [得意分野](#得意分野)
+  - [得意技術](#得意技術)
+  - [資格](#資格)
+  - [自己PR](#自己PR)
+  - [活動](#活動)
 - [経歴](#経歴)
 - [スキル](#スキル)
 
@@ -14,7 +19,7 @@
 
 ### 得意技術
 
-* TypeScript、Angula2-8、C#、WPF
+* TypeScript、Angula2-8、C#、WPF、Vue 3、Nuxt 3
 
 ### 資格  
 
@@ -68,31 +73,12 @@
 | 新規事業PoC開発（健康アプリ） | 2017/10-2018/03 ※1 | PG | TypeScript | Cordova, Angular4, Ionic2, TFS |
 | 新規事業PoC開発（ChatBot） | 2017/07-2018/03 ※1 | PL/SE/PG | C# | ASP.NET MVC, IIS, Bot Framework, LUIS, TFS |
 | 新規事業PoC開発（備品管理） | 2018/01-2018/03 ※1 | PL/SE/PG | TypeScript | Cordova, Angular4, PrimeNG, Node.js, Express, Passport, Node-RED, TFS |
-
-※1：兼務
-
-### フリーランス：エージェント経由（2018年4月〜）
-
-| 案件名 | 期間 | 役割 | 開発言語 | 技術・キーワード |
-----|----|----|----|----
 | SDWAN管理コンソール開発 | 2018/04-2018/09 | エンジニア | TypeScript | Angular4-6, Angular Material, Jasmine, TSLint, JIRA, Bitbucket, スクラム開発, Swagger, Slack |
 | 新卒向け就職サイト開発 | 2018/10-2020/03 ※1 | エンジニア | TypeScript | Angular4-7, Jasmine, TSLint, Node.js, Claudia.js, JIRA, GitHub, AWS Lambda/Cognito/SES/DynamoDB/CodeBuild, Elasticsearch, スクラム開発, API Blueprint, Slack |
 | 新卒向け就職エージェントサイト開発 | 2019/07-2020/01 ※1 | リードエンジニア | TypeScript | Angular8, Angular Material, Jasmine,  TSLint, Node.js, Nestjs, TypeORM, axios, Jest, Prettier, JIRA, GitHub/GitHub Actions, AWS ECS(Fargate)/Cognito/SES/Aurora DB, Chrome拡張機能, Docker, Swagger, Slack |
-
-※1：兼務
-
-### フリーランス（2020年4月〜）
-
-| 案件名 | 期間 | 役割 | 開発言語 | 技術・キーワード |
-----|----|----|----|----
 | クラウドファンディングサイト開発 | 2020/04-2020/09 | エンジニア | PHP, Go, JavaScript| FuelPHP, Smarty, Gin, Vue.js, jQuery, AWS ECS/Aurora DB, Elasticsearch, Docker, API Blueprint, Storybook, Vegeta, GitHub, ZenHub, Slack |
 
-### フリーランス：エージェント経由（2020年12月〜）
-
-
-| 案件名 | 期間 | 役割 | 開発言語 | 技術・キーワード |
-----|----|----|----|----
-
+※1：兼務
 
 ## スキル  
 
