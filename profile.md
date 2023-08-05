@@ -107,7 +107,12 @@
   * Angular Material 6/8 
   * PrimeNG
   * ng-bootstrap 
-* Vue.js 2.x
+* Vue.js 2.x/3.x
+  * Options API/Class Component/script setup
+  * Nuxt 2.x/3.x
+  * Vuex
+  * Pinia
+  * Vuetify
 * jQuery
 * Bootstrap 
 * Knockout.js
@@ -119,6 +124,7 @@
   * NestJS
   * TypeORM
 * Lodash
+* Zod
 
 #### Mobile
 
