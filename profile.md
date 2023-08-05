@@ -12,6 +12,12 @@
   - [SIer時代](#SIer時代)
   - [フリーランス](#フリーランス)
 - [スキル](#スキル)
+  - [開発言語](#開発言語)
+  - [フレームワーク/ライブラリ/テクノロジー ](#フレームワーク/ライブラリ/テクノロジー )
+  - [開発環境](#開発環境)
+  - [DB](#DB)
+  - [ソース管理/チケット管理/CI環境](#ソース管理/チケット管理/CI環境)
+  - [Cloud](#Cloud)
 
 ## プロフィール
 
@@ -44,7 +50,9 @@
   * MSBuild plugin（ローカライズ） - https://github.com/jenkinsci/msbuild-plugin
   * Redmine plugin（機能追加） - https://github.com/jenkinsci/redmine-plugin
   * MSTest plugin（ローカライズ） - https://github.com/jenkinsci/mstest-plugin
-* 技術ブログ執筆 - https://kakkoyakakko2.hatenablog.com/
+* 技術ブログ執筆
+  * https://kakkoyakakko2.hatenablog.com/
+  * https://zenn.dev/kakkoyakakko
 
 ### アバターについて
 
