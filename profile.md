@@ -90,8 +90,9 @@
 | 販売店舗向けPOC開発 | 2020/12-2021/02 ※1 | エンジニア | JavaScript | Vue.js 2, Vuex, Node.js, AWS Lambda/Pipoint/Aurora DB, JIRA, Bitbucket, Slack |
 | 旅行系SNSのWEBサービス開発 | 2020/12-2021/02 ※1 | エンジニア | TypeScript, C# | Vue.js 2, Vuex, ASP.NET Core, Azure SQL Database, JIRA, Bitbucket, Slack |
 | スクレイパー開発 | 2021/04-2021/07 | エンジニア | TypeScript | Puppeteer, Node.js, AWS ECS/Aurora DB, Docker, GitHub, CircleCI, スクラム開発, Slack |
-| 新旧システム間ETL開発 | 2021/08-2021/10 | エンジニア | TypeScript | TypeORM, Jest, Node.js, AWS Lambda/Aurora DB, Docker, GitHub, CircleCI, スクラム開発, Slack |
-| 入札情報入力システム保守 | 2021/10-2022/06 | エンジニア | TypeScript, PHP | Vue.js 2, Vuetify, Jest, Laravel 8, AWS ECS/Aurora DB, Docker, GitHub, CircleCI, スクラム開発, Slack |
+| 新旧システム間ETL開発 | 2021/08-2021/10 | エンジニア | TypeScript | TypeORM, Jest, Node.js, AWS Lambda/Aurora DB, Docker,  ESLint, Prettier, GitHub, CircleCI, スクラム開発, Slack |
+| 入札情報入力システム保守 | 2021/10-2022/06 | エンジニア | TypeScript, PHP | Vue.js 2, Nuxt 2, Vuetify 2, Jest, Laravel 8, AWS ECS/Aurora DB, Docker, GitHub, CircleCI, スクラム開発, Slack |
+| 入札情報入力システムリニューアル開発 | 2022/07- | リードエンジニア | TypeScript, PHP | Vue.js 3, Nuxt 3, Vuetify 3, graphql-request, pinia, Vitest, Playwright, Laravel 9, Lighthouse PHP, AWS ECS/Aurora DB, Docker, ESLint, Prettier, GitHub, CircleCI, スクラム開発, Slack |
 
 ※1：兼務
 
