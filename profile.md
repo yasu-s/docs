@@ -92,7 +92,7 @@
 | スクレイパー開発 | 2021/04-2021/07 | エンジニア | TypeScript | Puppeteer, Node.js, AWS ECS/Aurora DB, Docker, GitHub, CircleCI, スクラム開発, Slack |
 | 新旧システム間ETL開発 | 2021/08-2021/10 | エンジニア | TypeScript | TypeORM, Jest, Node.js, AWS Lambda/Aurora DB, Docker,  ESLint, Prettier, GitHub, CircleCI, スクラム開発, Slack |
 | 入札情報入力システム保守 | 2021/10-2022/06 | エンジニア | TypeScript, PHP | Vue.js 2, Nuxt 2, Vuetify 2, Jest, Laravel 8, AWS ECS/Aurora DB, Docker, GitHub, CircleCI, スクラム開発, Slack |
-| 入札情報入力システムリニューアル開発 | 2022/07- | リードエンジニア | TypeScript, PHP | Vue.js 3, Nuxt 3, Vuetify 3, graphql-request, pinia, Vitest, Playwright, Laravel 9, Lighthouse PHP, AWS ECS/Aurora DB, Docker, ESLint, Prettier, GitHub, CircleCI, スクラム開発, Slack |
+| 入札情報入力システムリニューアル開発 | 2022/07-2024/04 | リードエンジニア | TypeScript, PHP | Vue.js 3, Nuxt 3, Vuetify 3, graphql-request, pinia, Vitest, Playwright, Laravel 9, Lighthouse PHP, AWS ECS/Aurora DB, Docker, ESLint, Prettier, GitHub, CircleCI, スクラム開発, Slack |
 
 ※1：兼務
 
@@ -119,18 +119,25 @@
   * Vuex
   * Pinia
   * Vuetify
+* React
+  * hooks 
 * jQuery
 * Bootstrap 
 * Knockout.js
 * RxJS - Angular2がリリース後から経験。RxJS 6以降の変更にも対応可能。
-* Jasmine
-* Jest
+* Test
+  * Jasmine
+  * Jest
+  * Vitest
 * Node.js
   * Express 
   * NestJS
   * TypeORM
+  * Playwright
+  * Puppeteer
 * Lodash
 * Zod
+
 
 #### Mobile
 
@@ -157,6 +164,12 @@
 * JSTL 
 * log4j
 
+#### PHP
+
+* FuelPHP
+* Laravel
+  * Lighthouse PHP
+
 ### 開発環境  
 
 * Visual Studio 2005/2008/2010/2012/2015 
@@ -178,6 +191,7 @@
 * Redmine
 * JIRA
 * Jenkins
+* CircleCI
 
 ### Cloud
 
