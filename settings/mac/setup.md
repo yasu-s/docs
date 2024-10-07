@@ -27,6 +27,8 @@
   * システム環境設定 -> キーボード -> 入力ソース
     * `ライブ変換` を無効
     * `タイプミスを修正` を無効
+* 入力変換時の`あ`や`A`などのツールチップ非表示
+  * `defaults write kCFPreferencesAnyApplication TSMLanguageIndicatorEnabled 0` 
 * Mission Control
   * システム環境設定 -> Mission Control
     * 「最新の使用状況に基づいて操作スペースを自動的に並び替える」のチェックを外す
