@@ -93,6 +93,8 @@
 | 新旧システム間ETL開発 | 2021/08-2021/10 | エンジニア | TypeScript | TypeORM, Jest, Node.js, AWS Lambda/Aurora DB, Docker,  ESLint, Prettier, GitHub, CircleCI, スクラム開発, Slack |
 | 入札情報入力システム保守 | 2021/10-2022/06 | エンジニア | TypeScript, PHP | Vue.js 2, Nuxt 2, Vuetify 2, Jest, Laravel 8, AWS ECS/Aurora DB, Docker, GitHub, CircleCI, スクラム開発, Slack |
 | 入札情報入力システムリニューアル開発 | 2022/07-2024/04 | リードエンジニア | TypeScript, PHP | Vue.js 3, Nuxt 3, Vuetify 3, graphql-request, pinia, Vitest, Playwright, Laravel 9, Lighthouse PHP, AWS ECS/Aurora DB, Docker, ESLint, Prettier, GitHub, CircleCI, スクラム開発, Slack |
+| オーダー総合マネジメントシステム追加開発 | 2024/10-2025/02 | エンジニア | TypeScript | Vue.js 2, Nuxt 2, React Native, type-graphql, Nestjs, AWS ECS/Aurora DB, Docker, GitHub, CircleCI, Asana, Slack |
+
 
 ※1：兼務
 
