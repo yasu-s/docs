@@ -38,6 +38,7 @@
 
 * 多数の案件で技術選定～開発プロセス設計等の経験あり。
 * 開発の標準化やテスト自動化等の作業を複数案件で経験済み。
+* 基本設計（システム構成、画面・DB・バッチ設計etc）～総合テストまでの各フェーズの経験あり。
 * スマートフォン向けアプリ、Webアプリ、デスクトップアプリ等の様々な配信形式での開発経験あり。
 * OSS活動ではJenkinsのプラグインを開発・公開の実績あり。(VsTestRunner、Visual Studio Code Metrics Plugin etc)
 
@@ -89,11 +90,12 @@
 | クラウドファンディングサイト開発 | 2020/04-2020/09 | エンジニア | PHP, Go, JavaScript| FuelPHP, Smarty, Gin, Vue.js 2, jQuery, AWS ECS/Aurora DB, Elasticsearch, Docker, API Blueprint, Storybook, Vegeta, GitHub, ZenHub, Slack |
 | 販売店舗向けPOC開発 | 2020/12-2021/02 ※1 | エンジニア | JavaScript | Vue.js 2, Vuex, Node.js, AWS Lambda/Pipoint/Aurora DB, JIRA, Bitbucket, Slack |
 | 旅行系SNSのWEBサービス開発 | 2020/12-2021/02 ※1 | エンジニア | TypeScript, C# | Vue.js 2, Vuex, ASP.NET Core, Azure SQL Database, JIRA, Bitbucket, Slack |
-| スクレイパー開発 | 2021/04-2021/07 | エンジニア | TypeScript | Puppeteer, Node.js, AWS ECS/Aurora DB, Docker, GitHub, CircleCI, スクラム開発, Slack |
+| スクレイパー開発 | 2021/04-2021/07 | エンジニア | TypeScript | Puppeteer, Node.js, React, MUI, AWS ECS/Aurora DB, Docker, GitHub, CircleCI, スクラム開発, Slack |
 | 新旧システム間ETL開発 | 2021/08-2021/10 | エンジニア | TypeScript | TypeORM, Jest, Node.js, AWS Lambda/Aurora DB, Docker,  ESLint, Prettier, GitHub, CircleCI, スクラム開発, Slack |
 | 入札情報入力システム保守 | 2021/10-2022/06 | エンジニア | TypeScript, PHP | Vue.js 2, Nuxt 2, Vuetify 2, Jest, Laravel 8, AWS ECS/Aurora DB, Docker, GitHub, CircleCI, スクラム開発, Slack |
 | 入札情報入力システムリニューアル開発 | 2022/07-2024/04 | リードエンジニア | TypeScript, PHP | Vue.js 3, Nuxt 3, Vuetify 3, graphql-request, pinia, Vitest, Playwright, Laravel 9, Lighthouse PHP, AWS ECS/Aurora DB, Docker, ESLint, Prettier, GitHub, CircleCI, スクラム開発, Slack |
-| オーダー総合マネジメントシステム追加開発 | 2024/10-2025/02 | エンジニア | TypeScript | Vue.js 2, Nuxt 2, React Native, type-graphql, Nestjs, AWS ECS/Aurora DB, Docker, GitHub, CircleCI, Asana, Slack |
+| オーダー総合マネジメントシステム追加開発 | 2024/10-2025/02 | エンジニア | TypeScript | Vue.js 2, Nuxt 2, React Native, type-graphql, Nestjs, Prisma, AWS ECS/Aurora DB, Docker, GitHub, CircleCI, Asana, Slack |
+| 工場向け設備保全SaaS開発 | 2025/04- | エンジニア | TypeScript | React, Remix, Chakra UI, Apollo Client, Nestjs, Prisma, AWS ECS/Aurora DB, Docker, GitHub, GitHub Actions, Notion, Slack |
 
 
 ※1：兼務
